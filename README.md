@@ -214,7 +214,3 @@ IT Student | Aspiring Data Analyst & Data Scientist
 Skills Demonstrated
 
 Excel • SQL • Python • Pandas • Matplotlib • Seaborn • Power BI • Data Analysis • Data Visualization • Exploratory Data Analysis
-
-⭐ If you find this project useful
-
-Feel free to explore the analysis, review the SQL queries, run the Python code, and examine the Power BI dashboa
