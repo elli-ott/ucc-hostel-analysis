@@ -1,0 +1,501 @@
+Hostel_ID,Hostel_Name,Location,Distance_from_Campus_km,Room_Type,Gender,Annual_Rent_GHS,Number_of_Rooms,Total_Beds,Occupied_Beds,Occupancy_Rate_%,Water_Available,Electricity_Available,Fire_Safety_Equipment,Documents_Verified,Physical_Inspection_Passed,Verification_Status,Inspection_Date,Student_Rating,Reported_Complaints,Last_Verified_By
+HST0001,Sunrise Hostel,Amamoma,5.6,2-in-a-room,Mixed,5250,16,32,14,43.8,Yes,Yes,Yes,Yes,No,Pending Review,22 07 2026,4.1,6,Hostel Verification Team
+HST0002,Peace Haven Hostel,Ayensu,1.8,3-in-a-room,Male,5500,8,24,13,54.2,Yes,Yes,Yes,Yes,Yes,Verified,18 03 2026,4.7,3,Hostel Verification Team
+HST0003,Comfort Zone Hostel,Kwaprow,2.8,3-in-a-room,Mixed,4750,24,72,27,37.5,Yes,Yes,Yes,Yes,No,Pending Review,25 04 2026,4.1,18,Hostel Verification Team
+HST0004,Golden Gate Hostel,Pedu,7.4,2-in-a-room,Mixed,4250,32,64,39,60.9,Yes,Yes,Yes,Yes,Yes,Verified,19 04 2026,4.2,8,Hostel Verification Team
+HST0005,Royal Palm Hostel,Kotokuraba,4.1,2-in-a-room,Mixed,4750,37,74,49,66.2,Yes,Yes,Yes,Yes,Yes,Verified,13 10 2025,3.8,10,Hostel Verification Team
+HST0006,New Era Hostel,Cape Coast,5,4-in-a-room,Female,4300,37,148,69,46.6,Yes,No,No,Yes,Yes,Pending Review,8 10 2025,4.1,18,Hostel Verification Team
+HST0007,Starlight Hostel,Cape Coast,7.5,2-in-a-room,Female,7500,39,78,32,41,Yes,No,No,Yes,Yes,Pending Review,27 02 2025,3.4,2,Hostel Verification Team
+HST0008,Victory Hostel,Pedu,7.3,Single,Female,10750,15,15,15,100,Yes,No,Yes,Yes,Yes,Pending Review,13 07 2026,4.5,5,Hostel Verification Team
+HST0009,Campus View Hostel,Pedu,7.3,2-in-a-room,Female,7500,14,28,18,64.3,Yes,Yes,Yes,Yes,Yes,Verified,13 06 2026,3.7,10,Hostel Verification Team
+HST0010,Scholar's Lodge,Cape Coast,0.6,Single,Mixed,6000,39,39,39,100,No,Yes,No,Yes,Yes,Pending Review,21 03 2025,4,8,Hostel Verification Team
+HST0011,Hilltop Hostel,Ayensu,7.2,2-in-a-room,Male,5750,33,66,65,98.5,Yes,Yes,Yes,No,No,Pending Review,27 01 2026,3.6,2,Hostel Verification Team
+HST0012,Garden City Hostel,Cape Coast,0.3,Single,Male,7250,12,12,4,33.3,No,Yes,Yes,Yes,Yes,Pending Review,14 12 2025,4.6,17,Hostel Verification Team
+HST0013,Garden City Hostel,University Area,2,4-in-a-room,Male,3300,20,80,34,42.5,No,No,Yes,No,Yes,Not Verified,19 04 2025,3.3,1,Hostel Verification Team
+HST0014,Green Valley Hostel,Ayensu,5.5,Single,Male,7250,20,20,10,50,Yes,Yes,Yes,No,Yes,Pending Review,13 07 2026,2.6,14,Hostel Verification Team
+HST0015,Royal Palm Hostel,University Area,6.1,Single,Male,5750,42,42,40,95.2,No,No,Yes,Yes,Yes,Pending Review,25 01 2025,4.1,15,Hostel Verification Team
+HST0016,University Heights Hostel,Ayensu,0.2,4-in-a-room,Mixed,2800,37,148,87,58.8,Yes,Yes,Yes,No,Yes,Pending Review,19 03 2026,4.5,1,Hostel Verification Team
+HST0017,Prime Scholars Hostel,Amamoma,5.7,Single,Male,5750,45,45,30,66.7,Yes,Yes,No,Yes,Yes,Pending Review,8 06 2026,3.3,2,Hostel Verification Team
+HST0018,Comfort Zone Hostel,Kwaprow,7.1,2-in-a-room,Female,3750,13,26,22,84.6,Yes,Yes,Yes,Yes,Yes,Verified,29 06 2026,3.5,8,Hostel Verification Team
+HST0019,Ocean Breeze Hostel,Pedu,3.5,Single,Female,5500,37,37,31,83.8,Yes,Yes,No,Yes,Yes,Pending Review,22 04 2025,4.8,11,Hostel Verification Team
+HST0020,Scholar's Lodge,Kotokuraba,3.4,3-in-a-room,Male,4750,41,123,44,35.8,Yes,Yes,Yes,Yes,Yes,Verified,12 11 2025,3.2,17,Hostel Verification Team
+HST0021,Blue Sky Hostel,Pedu,4.6,3-in-a-room,Mixed,3250,24,72,57,79.2,No,Yes,Yes,Yes,Yes,Pending Review,25 05 2026,4.9,1,Hostel Verification Team
+HST0022,Blue Sky Hostel,Kotokuraba,5.6,4-in-a-room,Male,3800,8,32,14,43.8,Yes,No,Yes,Yes,Yes,Pending Review,28 03 2025,4,4,Hostel Verification Team
+HST0023,Scholar's Lodge,Abura,6.8,Single,Male,8250,21,21,17,81,No,Yes,No,Yes,Yes,Pending Review,22 09 2025,5,7,Hostel Verification Team
+HST0024,Kings Court Hostel,Amamoma,1.5,3-in-a-room,Male,5500,34,102,66,64.7,Yes,No,Yes,Yes,Yes,Pending Review,10 10 2025,2.9,7,Hostel Verification Team
+HST0025,Eagle's Nest Hostel,Abura,2.4,2-in-a-room,Mixed,5250,9,18,16,88.9,Yes,Yes,Yes,No,Yes,Pending Review,26 07 2025,3.6,11,Hostel Verification Team
+HST0026,New Era Hostel,Amamoma,1,3-in-a-room,Male,3000,45,135,80,59.3,Yes,No,Yes,Yes,No,Pending Review,18 02 2025,3.6,16,Hostel Verification Team
+HST0027,Comfort Zone Hostel,Cape Coast,2.1,4-in-a-room,Female,1800,41,164,160,97.6,Yes,Yes,Yes,Yes,Yes,Verified,15 07 2026,3.9,10,Hostel Verification Team
+HST0028,Victory Hostel,Pedu,5.1,3-in-a-room,Female,4000,26,78,62,79.5,No,Yes,No,Yes,No,Not Verified,20 05 2025,3.8,18,Hostel Verification Team
+HST0029,Comfort Zone Hostel,Amamoma,2.4,2-in-a-room,Mixed,6750,45,90,69,76.7,Yes,No,Yes,No,No,Not Verified,5 12 2025,3.8,5,Hostel Verification Team
+HST0030,Hilltop Hostel,Abura,0.9,2-in-a-room,Female,5750,22,44,40,90.9,Yes,No,Yes,Yes,Yes,Pending Review,1 08 2025,3.6,2,Hostel Verification Team
+HST0031,Kings Court Hostel,Cape Coast,5.4,4-in-a-room,Male,3550,33,132,77,58.3,Yes,Yes,Yes,Yes,Yes,Verified,10 06 2025,3.3,16,Hostel Verification Team
+HST0032,Eagle's Nest Hostel,Kotokuraba,6.1,3-in-a-room,Male,5500,36,108,101,93.5,No,No,No,No,Yes,Not Verified,22 03 2026,4.2,8,Hostel Verification Team
+HST0033,Blue Sky Hostel,University Area,4.8,3-in-a-room,Male,4250,12,36,34,94.4,Yes,Yes,Yes,Yes,Yes,Verified,29 10 2025,4.3,4,Hostel Verification Team
+HST0034,Peace Haven Hostel,Kwaprow,3.2,3-in-a-room,Male,4500,37,111,91,82,Yes,No,Yes,Yes,No,Pending Review,14 03 2025,4.4,15,Hostel Verification Team
+HST0035,Starlight Hostel,Pedu,5.7,4-in-a-room,Female,3800,42,168,160,95.2,No,No,Yes,No,Yes,Not Verified,23 08 2025,3.4,0,Hostel Verification Team
+HST0036,University Heights Hostel,University Area,6.9,Single,Female,8500,45,45,33,73.3,No,Yes,Yes,Yes,No,Pending Review,6 02 2025,4.5,1,Hostel Verification Team
+HST0037,Comfort Zone Hostel,Abura,1.7,3-in-a-room,Mixed,3750,32,96,68,70.8,Yes,Yes,Yes,Yes,Yes,Verified,17 03 2026,4,11,Hostel Verification Team
+HST0038,Green Valley Hostel,Amamoma,7.1,2-in-a-room,Female,3500,17,34,18,52.9,Yes,No,No,No,Yes,Not Verified,19 05 2025,4.2,8,Hostel Verification Team
+HST0039,University Heights Hostel,Kwaprow,5.9,2-in-a-room,Male,5750,14,28,27,96.4,Yes,Yes,Yes,Yes,No,Pending Review,5 02 2025,3.7,18,Hostel Verification Team
+HST0040,Scholar's Lodge,Kwaprow,6,Single,Female,8250,42,42,27,64.3,No,No,Yes,Yes,Yes,Pending Review,24 01 2026,3.3,3,Hostel Verification Team
+HST0041,Starlight Hostel,University Area,5.4,4-in-a-room,Female,2300,41,164,140,85.4,Yes,Yes,Yes,No,No,Pending Review,13 10 2025,4.1,7,Hostel Verification Team
+HST0042,Golden Gate Hostel,University Area,4.4,4-in-a-room,Female,3050,9,36,27,75,Yes,Yes,Yes,Yes,No,Pending Review,8 12 2025,3.8,10,Hostel Verification Team
+HST0043,Hilltop Hostel,Pedu,4.3,2-in-a-room,Male,4000,23,46,39,84.8,No,No,No,No,Yes,Not Verified,2 03 2026,4.1,14,Hostel Verification Team
+HST0044,Comfort Zone Hostel,Cape Coast,2.4,3-in-a-room,Female,4250,43,129,112,86.8,No,Yes,Yes,No,Yes,Pending Review,28 12 2025,3.8,9,Hostel Verification Team
+HST0045,Golden Gate Hostel,Kwaprow,5.5,3-in-a-room,Female,2750,42,126,67,53.2,Yes,Yes,Yes,Yes,No,Pending Review,25 07 2025,3.9,6,Hostel Verification Team
+HST0046,Campus View Hostel,Kotokuraba,2.2,Single,Female,9750,26,26,13,50,Yes,No,No,Yes,Yes,Pending Review,27 05 2026,4.5,15,Hostel Verification Team
+HST0047,New Era Hostel,Kotokuraba,7.2,3-in-a-room,Male,4250,15,45,41,91.1,Yes,Yes,Yes,No,No,Pending Review,17 03 2025,4.5,4,Hostel Verification Team
+HST0048,Golden Gate Hostel,Kwaprow,4.3,4-in-a-room,Mixed,4050,22,88,79,89.8,Yes,No,Yes,No,No,Not Verified,29 06 2026,2.8,9,Hostel Verification Team
+HST0049,Hilltop Hostel,Amamoma,4.7,Single,Female,11500,21,21,17,81,Yes,Yes,Yes,Yes,Yes,Verified,14 08 2025,4,17,Hostel Verification Team
+HST0050,Hilltop Hostel,University Area,2.3,2-in-a-room,Mixed,5750,26,52,47,90.4,Yes,No,No,Yes,Yes,Pending Review,23 03 2025,4,3,Hostel Verification Team
+HST0051,Golden Gate Hostel,Kotokuraba,6.8,2-in-a-room,Female,4000,11,22,12,54.5,No,Yes,Yes,Yes,No,Pending Review,20 11 2025,4.6,12,Hostel Verification Team
+HST0052,Eagle's Nest Hostel,Kwaprow,4.6,4-in-a-room,Male,4550,28,112,71,63.4,Yes,Yes,No,Yes,Yes,Pending Review,5 02 2025,3.8,18,Hostel Verification Team
+HST0053,University Heights Hostel,University Area,4,4-in-a-room,Male,2800,19,76,63,82.9,Yes,No,Yes,No,Yes,Pending Review,1 04 2026,3.9,10,Hostel Verification Team
+HST0054,New Era Hostel,Ayensu,5.3,3-in-a-room,Mixed,5000,33,99,38,38.4,Yes,Yes,Yes,Yes,Yes,Verified,20 04 2026,4.2,12,Hostel Verification Team
+HST0055,Campus View Hostel,University Area,3.2,2-in-a-room,Male,7500,31,62,60,96.8,Yes,Yes,Yes,No,Yes,Pending Review,4 06 2026,3.2,9,Hostel Verification Team
+HST0056,Campus View Hostel,Cape Coast,5.4,3-in-a-room,Mixed,4500,8,24,21,87.5,Yes,Yes,Yes,Yes,Yes,Verified,15 04 2025,4.3,15,Hostel Verification Team
+HST0057,Scholar's Lodge,Pedu,3.2,4-in-a-room,Female,3550,23,92,61,66.3,Yes,Yes,No,No,Yes,Pending Review,7 06 2025,4.2,8,Hostel Verification Team
+HST0058,Victory Hostel,Pedu,6.2,3-in-a-room,Mixed,5250,27,81,81,100,No,Yes,No,Yes,No,Not Verified,26 05 2026,2.9,10,Hostel Verification Team
+HST0059,Prime Scholars Hostel,Ayensu,3.5,3-in-a-room,Mixed,3250,23,69,60,87,Yes,No,Yes,Yes,No,Pending Review,6 02 2026,3.4,12,Hostel Verification Team
+HST0060,Ocean Breeze Hostel,University Area,7.2,2-in-a-room,Female,7500,45,90,52,57.8,No,Yes,No,No,Yes,Not Verified,22 04 2025,4.5,4,Hostel Verification Team
+HST0061,Ocean Breeze Hostel,Kwaprow,3.6,3-in-a-room,Female,3750,33,99,44,44.4,No,Yes,No,No,Yes,Not Verified,12 12 2025,4.1,2,Hostel Verification Team
+HST0062,Golden Gate Hostel,Kwaprow,3.4,Single,Female,11500,14,14,11,78.6,Yes,Yes,Yes,Yes,Yes,Verified,29 06 2025,4.8,9,Hostel Verification Team
+HST0063,Starlight Hostel,Ayensu,1.3,4-in-a-room,Female,4050,19,76,36,47.4,Yes,No,No,Yes,No,Not Verified,8 07 2025,4.4,18,Hostel Verification Team
+HST0064,Eagle's Nest Hostel,Pedu,5.1,4-in-a-room,Female,2800,42,168,78,46.4,Yes,No,No,No,Yes,Not Verified,26 03 2025,4.5,8,Hostel Verification Team
+HST0065,Scholar's Lodge,Cape Coast,7.5,4-in-a-room,Mixed,2050,23,92,56,60.9,No,Yes,Yes,Yes,Yes,Pending Review,12 01 2026,3.2,0,Hostel Verification Team
+HST0066,Green Valley Hostel,University Area,6.3,3-in-a-room,Mixed,5500,22,66,61,92.4,Yes,Yes,No,Yes,Yes,Pending Review,5 01 2026,3.7,3,Hostel Verification Team
+HST0067,Green Valley Hostel,Pedu,6,Single,Female,10000,31,31,14,45.2,No,Yes,No,Yes,Yes,Pending Review,12 04 2025,4.5,6,Hostel Verification Team
+HST0068,Victory Hostel,Pedu,6.3,3-in-a-room,Mixed,4250,26,78,74,94.9,Yes,Yes,Yes,Yes,No,Pending Review,22 12 2025,4.5,12,Hostel Verification Team
+HST0069,Starlight Hostel,Kwaprow,6,Single,Mixed,7500,42,42,17,40.5,No,Yes,No,Yes,Yes,Pending Review,20 04 2026,3.7,3,Hostel Verification Team
+HST0070,Prime Scholars Hostel,Abura,6.9,2-in-a-room,Female,4000,37,74,69,93.2,Yes,Yes,Yes,No,Yes,Pending Review,15 11 2025,3.4,9,Hostel Verification Team
+HST0071,Sunrise Hostel,Kwaprow,1.9,2-in-a-room,Mixed,6500,37,74,48,64.9,Yes,No,Yes,No,Yes,Pending Review,17 07 2026,4.4,13,Hostel Verification Team
+HST0072,Starlight Hostel,Cape Coast,3.4,2-in-a-room,Female,6250,14,28,20,71.4,Yes,Yes,Yes,Yes,Yes,Verified,21 07 2026,3.8,3,Hostel Verification Team
+HST0073,Royal Palm Hostel,Cape Coast,4.9,Single,Mixed,5750,29,29,17,58.6,Yes,Yes,No,Yes,Yes,Pending Review,18 05 2025,3.9,7,Hostel Verification Team
+HST0074,Campus View Hostel,Pedu,6.5,2-in-a-room,Mixed,4500,42,84,45,53.6,Yes,Yes,Yes,Yes,Yes,Verified,7 07 2025,4.3,7,Hostel Verification Team
+HST0075,New Era Hostel,Amamoma,1.5,Single,Male,6500,34,34,27,79.4,Yes,Yes,Yes,Yes,No,Pending Review,6 05 2025,2.7,14,Hostel Verification Team
+HST0076,Victory Hostel,Pedu,3.5,Single,Female,5750,38,38,25,65.8,No,Yes,No,Yes,No,Not Verified,22 03 2026,4,2,Hostel Verification Team
+HST0077,Hilltop Hostel,Kotokuraba,0.7,3-in-a-room,Mixed,4750,45,135,117,86.7,No,Yes,Yes,No,Yes,Pending Review,8 12 2025,4.5,3,Hostel Verification Team
+HST0078,Peace Haven Hostel,Ayensu,3.5,2-in-a-room,Female,6750,29,58,49,84.5,No,Yes,Yes,No,Yes,Pending Review,22 02 2026,3.4,8,Hostel Verification Team
+HST0079,Ocean Breeze Hostel,University Area,0.7,Single,Female,6000,35,35,15,42.9,Yes,Yes,No,Yes,Yes,Pending Review,26 01 2026,3.5,13,Hostel Verification Team
+HST0080,Green Valley Hostel,Pedu,4.6,3-in-a-room,Female,2750,44,132,110,83.3,Yes,Yes,Yes,Yes,No,Pending Review,15 08 2025,4.6,17,Hostel Verification Team
+HST0081,Sunrise Hostel,Pedu,4.4,4-in-a-room,Mixed,3800,43,172,63,36.6,Yes,Yes,Yes,Yes,Yes,Verified,10 10 2025,5,11,Hostel Verification Team
+HST0082,Comfort Zone Hostel,Kwaprow,1.2,Single,Mixed,6000,41,41,20,48.8,Yes,Yes,Yes,No,No,Pending Review,30 01 2026,4,9,Hostel Verification Team
+HST0083,New Era Hostel,Kwaprow,6.6,2-in-a-room,Female,4750,11,22,9,40.9,No,No,Yes,No,No,Not Verified,15 10 2025,4.1,8,Hostel Verification Team
+HST0084,Kings Court Hostel,Kwaprow,2.3,4-in-a-room,Male,3800,27,108,42,38.9,Yes,Yes,Yes,No,Yes,Pending Review,23 08 2025,4.6,6,Hostel Verification Team
+HST0085,Blue Sky Hostel,Pedu,2.6,Single,Male,9250,35,35,17,48.6,Yes,Yes,No,No,Yes,Pending Review,22 05 2025,4.1,12,Hostel Verification Team
+HST0086,Eagle's Nest Hostel,Kwaprow,6.5,4-in-a-room,Mixed,4050,33,132,127,96.2,Yes,Yes,Yes,Yes,Yes,Verified,13 03 2026,3.9,5,Hostel Verification Team
+HST0087,Eagle's Nest Hostel,Abura,0.8,Single,Mixed,7250,35,35,30,85.7,Yes,Yes,Yes,Yes,No,Pending Review,24 02 2026,4,10,Hostel Verification Team
+HST0088,Sunrise Hostel,Cape Coast,6.8,3-in-a-room,Male,3750,17,51,32,62.7,Yes,Yes,Yes,Yes,Yes,Verified,25 04 2025,3.8,2,Hostel Verification Team
+HST0089,Maple Court Hostel,University Area,5.7,4-in-a-room,Mixed,4300,44,176,143,81.2,Yes,No,Yes,Yes,Yes,Pending Review,6 12 2025,3.3,14,Hostel Verification Team
+HST0090,Green Valley Hostel,Abura,3.9,3-in-a-room,Mixed,4250,36,108,41,38,Yes,No,Yes,Yes,Yes,Pending Review,9 03 2025,3.3,14,Hostel Verification Team
+HST0091,Prime Scholars Hostel,Amamoma,3.5,2-in-a-room,Mixed,6000,38,76,58,76.3,Yes,Yes,Yes,Yes,No,Pending Review,13 06 2025,3.9,16,Hostel Verification Team
+HST0092,Eagle's Nest Hostel,University Area,4,2-in-a-room,Female,6250,31,62,39,62.9,Yes,Yes,No,No,Yes,Pending Review,10 02 2026,3.9,2,Hostel Verification Team
+HST0093,Sunrise Hostel,Ayensu,2.3,2-in-a-room,Male,6000,13,26,13,50,Yes,Yes,Yes,Yes,No,Pending Review,3 01 2026,3.3,17,Hostel Verification Team
+HST0094,Victory Hostel,Kwaprow,4.9,4-in-a-room,Male,3800,31,124,45,36.3,Yes,No,Yes,Yes,Yes,Pending Review,16 01 2026,4.7,6,Hostel Verification Team
+HST0095,Ocean Breeze Hostel,Kotokuraba,0.8,Single,Mixed,9500,42,42,40,95.2,Yes,No,No,Yes,Yes,Pending Review,3 07 2026,4.5,4,Hostel Verification Team
+HST0096,University Heights Hostel,University Area,0.5,3-in-a-room,Male,5000,23,69,52,75.4,Yes,Yes,No,No,Yes,Pending Review,28 10 2025,4.9,15,Hostel Verification Team
+HST0097,Starlight Hostel,University Area,3.6,3-in-a-room,Mixed,5500,32,96,86,89.6,Yes,No,Yes,Yes,Yes,Pending Review,24 06 2025,3.8,11,Hostel Verification Team
+HST0098,Sunrise Hostel,Pedu,0.8,2-in-a-room,Female,5500,36,72,57,79.2,No,Yes,Yes,No,Yes,Pending Review,9 06 2025,3.9,0,Hostel Verification Team
+HST0099,Green Valley Hostel,Ayensu,3.9,2-in-a-room,Female,6500,13,26,20,76.9,Yes,Yes,Yes,Yes,Yes,Verified,27 08 2025,5,4,Hostel Verification Team
+HST0100,Ocean Breeze Hostel,University Area,3.5,Single,Male,6000,9,9,5,55.6,Yes,Yes,Yes,Yes,No,Pending Review,18 08 2025,4.3,9,Hostel Verification Team
+HST0101,Green Valley Hostel,Cape Coast,3.3,4-in-a-room,Mixed,2050,15,60,52,86.7,Yes,Yes,No,Yes,Yes,Pending Review,12 07 2026,4.5,13,Hostel Verification Team
+HST0102,Kings Court Hostel,Kotokuraba,5,Single,Female,9500,31,31,12,38.7,Yes,No,Yes,Yes,No,Pending Review,2 07 2026,4,11,Hostel Verification Team
+HST0103,Campus View Hostel,Abura,6,3-in-a-room,Male,3250,14,42,38,90.5,Yes,Yes,Yes,Yes,Yes,Verified,16 12 2025,4.6,14,Hostel Verification Team
+HST0104,Ocean Breeze Hostel,Kwaprow,5.4,4-in-a-room,Female,1800,26,104,61,58.7,Yes,No,Yes,Yes,Yes,Pending Review,23 02 2025,3.9,17,Hostel Verification Team
+HST0105,Blue Sky Hostel,Amamoma,5.7,2-in-a-room,Male,5750,30,60,24,40,No,No,Yes,Yes,Yes,Pending Review,15 12 2025,4.4,14,Hostel Verification Team
+HST0106,Maple Court Hostel,University Area,2.9,3-in-a-room,Male,5500,13,39,36,92.3,Yes,Yes,No,Yes,No,Pending Review,20 03 2026,3.7,10,Hostel Verification Team
+HST0107,Royal Palm Hostel,Abura,5,3-in-a-room,Male,4250,35,105,57,54.3,Yes,No,Yes,Yes,No,Pending Review,9 04 2026,3.4,8,Hostel Verification Team
+HST0108,Royal Palm Hostel,Ayensu,2.9,2-in-a-room,Female,3500,17,34,30,88.2,Yes,Yes,Yes,Yes,Yes,Verified,3 04 2026,3.3,11,Hostel Verification Team
+HST0109,Garden City Hostel,Amamoma,4.6,4-in-a-room,Male,3050,31,124,99,79.8,Yes,Yes,Yes,Yes,Yes,Verified,29 03 2025,4.1,7,Hostel Verification Team
+HST0110,Maple Court Hostel,Ayensu,6.9,Single,Female,7500,24,24,22,91.7,Yes,Yes,Yes,Yes,No,Pending Review,17 08 2025,4,2,Hostel Verification Team
+HST0111,University Heights Hostel,University Area,7.5,3-in-a-room,Male,5000,30,90,76,84.4,Yes,Yes,Yes,Yes,Yes,Verified,17 03 2025,4.3,16,Hostel Verification Team
+HST0112,Golden Gate Hostel,University Area,0.4,3-in-a-room,Mixed,4250,43,129,61,47.3,No,No,Yes,Yes,Yes,Pending Review,8 04 2025,5,13,Hostel Verification Team
+HST0113,Royal Palm Hostel,Kotokuraba,7.3,Single,Male,9000,37,37,33,89.2,Yes,Yes,No,Yes,Yes,Pending Review,23 06 2026,2.9,13,Hostel Verification Team
+HST0114,Victory Hostel,Kotokuraba,2.4,2-in-a-room,Mixed,6000,22,44,26,59.1,Yes,Yes,Yes,Yes,Yes,Verified,25 06 2026,4,4,Hostel Verification Team
+HST0115,Scholar's Lodge,Kwaprow,3.9,2-in-a-room,Mixed,4500,18,36,33,91.7,Yes,Yes,Yes,Yes,Yes,Verified,21 12 2025,4.1,6,Hostel Verification Team
+HST0116,Campus View Hostel,University Area,6.7,3-in-a-room,Female,5000,27,81,58,71.6,Yes,Yes,Yes,No,Yes,Pending Review,17 09 2025,3.4,5,Hostel Verification Team
+HST0117,Kings Court Hostel,University Area,3.6,3-in-a-room,Female,4750,17,51,37,72.5,Yes,Yes,Yes,Yes,No,Pending Review,2 12 2025,4,10,Hostel Verification Team
+HST0118,Golden Gate Hostel,Kotokuraba,0.9,3-in-a-room,Female,4000,34,102,66,64.7,Yes,No,Yes,Yes,Yes,Pending Review,22 06 2025,4.3,16,Hostel Verification Team
+HST0119,Maple Court Hostel,Pedu,3.8,Single,Mixed,8500,40,40,28,70,Yes,Yes,Yes,Yes,Yes,Verified,13 09 2025,3.1,15,Hostel Verification Team
+HST0120,Maple Court Hostel,Pedu,4.1,Single,Mixed,8750,16,16,9,56.2,No,Yes,Yes,No,Yes,Pending Review,19 01 2026,3.4,18,Hostel Verification Team
+HST0121,Peace Haven Hostel,Abura,4.2,Single,Male,8500,40,40,28,70,No,Yes,Yes,Yes,Yes,Pending Review,23 10 2025,3.5,10,Hostel Verification Team
+HST0122,Peace Haven Hostel,Ayensu,3.9,Single,Male,5750,16,16,16,100,Yes,Yes,Yes,No,No,Pending Review,17 12 2025,3.8,10,Hostel Verification Team
+HST0123,Comfort Zone Hostel,Pedu,4.5,4-in-a-room,Mixed,4550,44,176,99,56.2,Yes,No,Yes,Yes,Yes,Pending Review,11 05 2026,3.6,18,Hostel Verification Team
+HST0124,Campus View Hostel,University Area,2.1,2-in-a-room,Mixed,3750,45,90,61,67.8,Yes,Yes,No,No,Yes,Pending Review,3 07 2025,5,18,Hostel Verification Team
+HST0125,Sunrise Hostel,Cape Coast,0.3,3-in-a-room,Mixed,4000,17,51,43,84.3,Yes,Yes,No,No,No,Not Verified,6 08 2025,4.1,16,Hostel Verification Team
+HST0126,Maple Court Hostel,Ayensu,2.5,2-in-a-room,Female,7000,42,84,50,59.5,No,Yes,No,Yes,Yes,Pending Review,23 07 2026,4.5,7,Hostel Verification Team
+HST0127,Prime Scholars Hostel,Pedu,1.8,3-in-a-room,Female,5500,26,78,72,92.3,Yes,Yes,Yes,No,Yes,Pending Review,10 08 2025,4.6,9,Hostel Verification Team
+HST0128,Comfort Zone Hostel,Abura,7.2,2-in-a-room,Male,5750,10,20,11,55,Yes,No,No,Yes,No,Not Verified,31 03 2025,4.6,6,Hostel Verification Team
+HST0129,Prime Scholars Hostel,Pedu,7,3-in-a-room,Female,3000,14,42,33,78.6,Yes,Yes,No,Yes,Yes,Pending Review,12 09 2025,4.4,1,Hostel Verification Team
+HST0130,Sunrise Hostel,Kotokuraba,0.2,2-in-a-room,Male,6750,38,76,56,73.7,Yes,Yes,Yes,Yes,Yes,Verified,2 08 2025,4.3,18,Hostel Verification Team
+HST0131,Prime Scholars Hostel,Amamoma,6.9,2-in-a-room,Female,6750,19,38,14,36.8,Yes,Yes,No,No,Yes,Pending Review,20 02 2026,3.8,0,Hostel Verification Team
+HST0132,Scholar's Lodge,University Area,7.4,4-in-a-room,Mixed,2300,40,160,115,71.9,Yes,No,Yes,Yes,Yes,Pending Review,16 10 2025,4.7,8,Hostel Verification Team
+HST0133,University Heights Hostel,Amamoma,5.6,3-in-a-room,Male,4750,20,60,32,53.3,No,Yes,Yes,No,Yes,Pending Review,1 03 2026,4.6,5,Hostel Verification Team
+HST0134,Campus View Hostel,Pedu,3,4-in-a-room,Female,2800,29,116,78,67.2,Yes,Yes,No,Yes,Yes,Pending Review,21 01 2025,3.9,3,Hostel Verification Team
+HST0135,Scholar's Lodge,Kotokuraba,3.2,3-in-a-room,Female,5250,15,45,35,77.8,Yes,No,Yes,Yes,Yes,Pending Review,8 11 2025,2.4,4,Hostel Verification Team
+HST0136,Kings Court Hostel,University Area,5.7,2-in-a-room,Mixed,5250,13,26,25,96.2,Yes,Yes,No,Yes,Yes,Pending Review,12 04 2026,4.5,17,Hostel Verification Team
+HST0137,Peace Haven Hostel,Kotokuraba,1.4,4-in-a-room,Mixed,2050,21,84,74,88.1,No,Yes,Yes,Yes,No,Pending Review,25 05 2026,3.4,16,Hostel Verification Team
+HST0138,Eagle's Nest Hostel,Pedu,5.5,4-in-a-room,Female,2800,8,32,17,53.1,Yes,Yes,Yes,Yes,No,Pending Review,25 03 2025,4.4,2,Hostel Verification Team
+HST0139,Green Valley Hostel,Pedu,3.2,2-in-a-room,Mixed,6750,31,62,45,72.6,Yes,Yes,Yes,No,No,Pending Review,14 04 2026,4.3,3,Hostel Verification Team
+HST0140,Ocean Breeze Hostel,Cape Coast,6.3,Single,Male,7750,37,37,33,89.2,Yes,No,Yes,No,No,Not Verified,21 07 2026,4.6,11,Hostel Verification Team
+HST0141,Blue Sky Hostel,Cape Coast,7,Single,Male,5750,34,34,30,88.2,Yes,Yes,Yes,Yes,Yes,Verified,26 01 2025,3.3,14,Hostel Verification Team
+HST0142,Golden Gate Hostel,Amamoma,3.1,2-in-a-room,Female,5000,11,22,11,50,Yes,Yes,No,Yes,Yes,Pending Review,9 06 2026,3.5,7,Hostel Verification Team
+HST0143,Ocean Breeze Hostel,Cape Coast,3.2,3-in-a-room,Male,2500,43,129,120,93,Yes,No,Yes,No,No,Not Verified,8 07 2025,3.8,16,Hostel Verification Team
+HST0144,Scholar's Lodge,Ayensu,1.5,4-in-a-room,Mixed,2550,22,88,49,55.7,No,No,No,No,Yes,Not Verified,6 06 2025,4.5,17,Hostel Verification Team
+HST0145,Ocean Breeze Hostel,Ayensu,2,2-in-a-room,Mixed,6000,13,26,23,88.5,Yes,No,Yes,Yes,Yes,Pending Review,24 01 2026,4.2,1,Hostel Verification Team
+HST0146,Prime Scholars Hostel,Cape Coast,3.7,3-in-a-room,Mixed,3500,8,24,14,58.3,Yes,No,Yes,Yes,No,Pending Review,23 07 2025,3.7,7,Hostel Verification Team
+HST0147,New Era Hostel,Pedu,3,3-in-a-room,Mixed,3500,24,72,48,66.7,No,Yes,Yes,No,No,Not Verified,19 06 2026,3.6,6,Hostel Verification Team
+HST0148,Golden Gate Hostel,Kotokuraba,0.3,4-in-a-room,Mixed,2800,17,68,35,51.5,Yes,No,No,Yes,No,Not Verified,13 12 2025,4.4,17,Hostel Verification Team
+HST0149,New Era Hostel,Pedu,5.8,4-in-a-room,Mixed,4550,39,156,112,71.8,No,Yes,Yes,Yes,Yes,Pending Review,1 07 2025,5,17,Hostel Verification Team
+HST0150,Green Valley Hostel,Kwaprow,7.1,Single,Mixed,11500,8,8,5,62.5,Yes,Yes,No,Yes,Yes,Pending Review,30 05 2025,3.9,6,Hostel Verification Team
+HST0151,Eagle's Nest Hostel,Abura,0.6,4-in-a-room,Female,4300,39,156,56,35.9,Yes,Yes,Yes,No,Yes,Pending Review,16 01 2025,3.1,0,Hostel Verification Team
+HST0152,University Heights Hostel,Kwaprow,6.9,2-in-a-room,Female,5250,20,40,33,82.5,No,Yes,Yes,Yes,Yes,Pending Review,3 07 2026,4,11,Hostel Verification Team
+HST0153,Eagle's Nest Hostel,Cape Coast,7.4,2-in-a-room,Female,5750,13,26,10,38.5,No,Yes,Yes,No,No,Not Verified,15 04 2025,3.9,0,Hostel Verification Team
+HST0154,New Era Hostel,Kwaprow,6.7,Single,Female,7250,21,21,21,100,Yes,Yes,Yes,Yes,Yes,Verified,11 05 2026,3.8,5,Hostel Verification Team
+HST0155,Campus View Hostel,Cape Coast,4.5,4-in-a-room,Male,2050,27,108,57,52.8,Yes,Yes,Yes,No,Yes,Pending Review,13 09 2025,4,16,Hostel Verification Team
+HST0156,Kings Court Hostel,Cape Coast,6.3,3-in-a-room,Female,4750,33,99,75,75.8,Yes,Yes,Yes,Yes,No,Pending Review,9 02 2025,3.5,17,Hostel Verification Team
+HST0157,Kings Court Hostel,Kotokuraba,5.2,4-in-a-room,Male,2050,26,104,67,64.4,No,Yes,Yes,Yes,Yes,Pending Review,26 03 2025,3.9,12,Hostel Verification Team
+HST0158,Scholar's Lodge,University Area,2.8,3-in-a-room,Male,2750,16,48,21,43.8,No,Yes,No,No,No,Not Verified,20 07 2025,4.2,0,Hostel Verification Team
+HST0159,Starlight Hostel,Kwaprow,4.6,3-in-a-room,Female,4000,8,24,17,70.8,Yes,Yes,No,No,Yes,Pending Review,9 03 2026,4.2,12,Hostel Verification Team
+HST0160,Maple Court Hostel,Kotokuraba,0.7,4-in-a-room,Female,2800,34,136,85,62.5,Yes,No,Yes,Yes,Yes,Pending Review,20 05 2026,4.4,6,Hostel Verification Team
+HST0161,Sunrise Hostel,Kotokuraba,2.4,4-in-a-room,Female,3050,32,128,86,67.2,Yes,Yes,No,Yes,No,Pending Review,5 04 2026,3.3,10,Hostel Verification Team
+HST0162,New Era Hostel,Kotokuraba,7.2,3-in-a-room,Mixed,3500,39,117,113,96.6,No,Yes,Yes,Yes,No,Pending Review,15 09 2025,3.5,3,Hostel Verification Team
+HST0163,Peace Haven Hostel,Kotokuraba,5.2,Single,Female,11250,37,37,34,91.9,Yes,No,No,No,Yes,Not Verified,12 08 2025,4.3,15,Hostel Verification Team
+HST0164,Ocean Breeze Hostel,Ayensu,6,Single,Mixed,9000,38,38,31,81.6,Yes,Yes,Yes,No,Yes,Pending Review,24 02 2026,4.4,7,Hostel Verification Team
+HST0165,Starlight Hostel,Kotokuraba,4.9,Single,Mixed,10000,33,33,21,63.6,Yes,Yes,Yes,Yes,Yes,Verified,26 03 2026,4,16,Hostel Verification Team
+HST0166,Garden City Hostel,Cape Coast,3.5,4-in-a-room,Female,3550,45,180,150,83.3,No,Yes,Yes,Yes,Yes,Pending Review,6 06 2026,3.3,9,Hostel Verification Team
+HST0167,Royal Palm Hostel,Kwaprow,6.3,2-in-a-room,Male,6250,27,54,39,72.2,No,Yes,Yes,Yes,No,Pending Review,21 04 2026,3.9,14,Hostel Verification Team
+HST0168,Scholar's Lodge,Amamoma,6.1,Single,Female,5500,29,29,13,44.8,Yes,Yes,No,Yes,Yes,Pending Review,27 06 2025,3.4,17,Hostel Verification Team
+HST0169,Eagle's Nest Hostel,Cape Coast,6,2-in-a-room,Mixed,4750,35,70,49,70,No,No,No,Yes,No,Not Verified,8 02 2025,3.9,0,Hostel Verification Team
+HST0170,Royal Palm Hostel,Kwaprow,6,2-in-a-room,Mixed,6250,28,56,31,55.4,No,Yes,No,Yes,Yes,Pending Review,23 04 2026,3.6,12,Hostel Verification Team
+HST0171,Comfort Zone Hostel,Kwaprow,2.7,4-in-a-room,Male,4050,19,76,69,90.8,Yes,Yes,Yes,Yes,Yes,Verified,10 11 2025,4.4,9,Hostel Verification Team
+HST0172,Victory Hostel,Ayensu,3.3,2-in-a-room,Female,6500,35,70,35,50,Yes,Yes,Yes,Yes,Yes,Verified,23 05 2026,4.4,5,Hostel Verification Team
+HST0173,Eagle's Nest Hostel,Amamoma,6.5,Single,Male,9250,16,16,8,50,No,No,No,No,No,Not Verified,7 02 2026,3.8,14,Hostel Verification Team
+HST0174,Golden Gate Hostel,Pedu,0.4,2-in-a-room,Female,5750,18,36,36,100,Yes,Yes,No,No,Yes,Pending Review,23 04 2026,4,17,Hostel Verification Team
+HST0175,Prime Scholars Hostel,Amamoma,5.7,4-in-a-room,Male,3800,21,84,56,66.7,No,Yes,Yes,Yes,Yes,Pending Review,24 04 2025,4.2,11,Hostel Verification Team
+HST0176,Golden Gate Hostel,Cape Coast,6.1,3-in-a-room,Male,5250,35,105,57,54.3,Yes,Yes,Yes,Yes,Yes,Verified,1 06 2025,3.8,17,Hostel Verification Team
+HST0177,New Era Hostel,Pedu,2.3,3-in-a-room,Male,4500,14,42,18,42.9,Yes,Yes,No,Yes,Yes,Pending Review,7 03 2026,4.3,7,Hostel Verification Team
+HST0178,Comfort Zone Hostel,University Area,1.2,3-in-a-room,Female,5000,34,102,83,81.4,Yes,Yes,Yes,Yes,Yes,Verified,17 04 2026,4.4,14,Hostel Verification Team
+HST0179,New Era Hostel,Amamoma,6.5,Single,Female,11250,37,37,32,86.5,No,Yes,Yes,Yes,No,Pending Review,11 01 2026,3.9,15,Hostel Verification Team
+HST0180,Prime Scholars Hostel,Kotokuraba,4.3,4-in-a-room,Male,3050,11,44,16,36.4,Yes,No,Yes,No,Yes,Pending Review,21 04 2025,5,14,Hostel Verification Team
+HST0181,Kings Court Hostel,Cape Coast,7.5,2-in-a-room,Mixed,5750,18,36,20,55.6,Yes,Yes,Yes,Yes,Yes,Verified,15 04 2025,3.6,1,Hostel Verification Team
+HST0182,Golden Gate Hostel,Ayensu,5,Single,Mixed,5500,21,21,14,66.7,No,Yes,No,Yes,Yes,Pending Review,30 03 2025,4.3,0,Hostel Verification Team
+HST0183,New Era Hostel,Kwaprow,7.4,4-in-a-room,Female,4550,16,64,52,81.2,Yes,Yes,Yes,Yes,No,Pending Review,23 03 2025,3.7,10,Hostel Verification Team
+HST0184,Ocean Breeze Hostel,Kotokuraba,0.7,Single,Male,10250,18,18,13,72.2,No,Yes,Yes,Yes,Yes,Pending Review,4 01 2026,4.3,2,Hostel Verification Team
+HST0185,Ocean Breeze Hostel,Kwaprow,4.5,4-in-a-room,Female,3050,35,140,89,63.6,Yes,Yes,No,Yes,Yes,Pending Review,2 06 2025,3.3,17,Hostel Verification Team
+HST0186,Campus View Hostel,Pedu,1.7,2-in-a-room,Mixed,6500,26,52,21,40.4,Yes,No,Yes,No,No,Not Verified,12 09 2025,3.5,2,Hostel Verification Team
+HST0187,Campus View Hostel,Abura,7,2-in-a-room,Male,6500,44,88,56,63.6,Yes,Yes,Yes,Yes,No,Pending Review,19 01 2026,4,0,Hostel Verification Team
+HST0188,Comfort Zone Hostel,Pedu,4.8,4-in-a-room,Male,3300,33,132,56,42.4,Yes,Yes,Yes,Yes,Yes,Verified,13 07 2026,4.2,16,Hostel Verification Team
+HST0189,Ocean Breeze Hostel,Abura,3.1,Single,Mixed,7750,35,35,35,100,No,Yes,Yes,Yes,Yes,Pending Review,11 09 2025,3.9,14,Hostel Verification Team
+HST0190,University Heights Hostel,Kwaprow,0.3,2-in-a-room,Male,3500,18,36,27,75,Yes,Yes,Yes,Yes,Yes,Verified,31 12 2025,3.9,3,Hostel Verification Team
+HST0191,New Era Hostel,Ayensu,2.2,Single,Male,7500,44,44,35,79.5,Yes,Yes,No,No,No,Not Verified,29 03 2025,4.2,15,Hostel Verification Team
+HST0192,Blue Sky Hostel,Kwaprow,6.7,Single,Male,7250,40,40,14,35,No,Yes,Yes,Yes,Yes,Pending Review,24 02 2025,3.7,12,Hostel Verification Team
+HST0193,University Heights Hostel,Amamoma,4.2,4-in-a-room,Male,2550,28,112,70,62.5,Yes,Yes,Yes,Yes,Yes,Verified,12 03 2026,3.9,16,Hostel Verification Team
+HST0194,Victory Hostel,Amamoma,7.2,Single,Mixed,9000,26,26,18,69.2,Yes,Yes,Yes,Yes,No,Pending Review,11 12 2025,3.8,9,Hostel Verification Team
+HST0195,Scholar's Lodge,Cape Coast,3.6,4-in-a-room,Male,2550,42,168,155,92.3,Yes,Yes,Yes,Yes,Yes,Verified,18 09 2025,3.4,17,Hostel Verification Team
+HST0196,New Era Hostel,Amamoma,5.7,4-in-a-room,Male,4550,27,108,50,46.3,Yes,Yes,Yes,Yes,No,Pending Review,8 08 2025,4.9,8,Hostel Verification Team
+HST0197,Green Valley Hostel,Cape Coast,6.8,4-in-a-room,Male,4550,31,124,101,81.5,No,Yes,No,Yes,Yes,Pending Review,6 04 2025,3.5,18,Hostel Verification Team
+HST0198,Golden Gate Hostel,Pedu,2.1,3-in-a-room,Mixed,5500,33,99,75,75.8,Yes,Yes,Yes,No,Yes,Pending Review,1 12 2025,3.8,4,Hostel Verification Team
+HST0199,Sunrise Hostel,Kotokuraba,1,4-in-a-room,Mixed,3550,28,112,91,81.2,Yes,No,Yes,Yes,Yes,Pending Review,13 05 2025,4.1,8,Hostel Verification Team
+HST0200,Scholar's Lodge,Amamoma,1.8,3-in-a-room,Male,3000,13,39,35,89.7,Yes,Yes,No,Yes,No,Pending Review,21 09 2025,3.8,8,Hostel Verification Team
+HST0201,Campus View Hostel,Ayensu,6.4,2-in-a-room,Mixed,4250,37,74,31,41.9,Yes,Yes,Yes,Yes,Yes,Verified,2 06 2025,4.2,6,Hostel Verification Team
+HST0202,Royal Palm Hostel,Pedu,6.9,Single,Male,5500,12,12,7,58.3,Yes,Yes,Yes,Yes,Yes,Verified,9 04 2026,3.5,14,Hostel Verification Team
+HST0203,University Heights Hostel,Ayensu,6.2,4-in-a-room,Mixed,3550,9,36,24,66.7,Yes,Yes,Yes,Yes,Yes,Verified,22 03 2026,3.7,8,Hostel Verification Team
+HST0204,Hilltop Hostel,Cape Coast,4.9,4-in-a-room,Mixed,3300,43,172,121,70.3,Yes,No,Yes,Yes,Yes,Pending Review,13 03 2025,4.1,6,Hostel Verification Team
+HST0205,Victory Hostel,Cape Coast,4.8,Single,Male,8500,30,30,25,83.3,Yes,No,No,No,Yes,Not Verified,21 07 2026,4.2,8,Hostel Verification Team
+HST0206,Campus View Hostel,Pedu,0.6,4-in-a-room,Mixed,3800,30,120,116,96.7,Yes,Yes,Yes,Yes,Yes,Verified,5 09 2025,4.4,17,Hostel Verification Team
+HST0207,Green Valley Hostel,Cape Coast,4.4,4-in-a-room,Male,3050,19,76,37,48.7,Yes,Yes,No,Yes,Yes,Pending Review,9 09 2025,3.3,18,Hostel Verification Team
+HST0208,Maple Court Hostel,Pedu,1.5,Single,Female,6000,11,11,6,54.5,Yes,Yes,Yes,Yes,No,Pending Review,22 08 2025,3.7,4,Hostel Verification Team
+HST0209,University Heights Hostel,Abura,0.6,2-in-a-room,Male,4500,15,30,26,86.7,No,Yes,No,Yes,Yes,Pending Review,18 01 2026,3.9,10,Hostel Verification Team
+HST0210,Kings Court Hostel,University Area,4.9,2-in-a-room,Mixed,6250,22,44,36,81.8,Yes,Yes,No,No,Yes,Pending Review,8 07 2025,4.3,5,Hostel Verification Team
+HST0211,Campus View Hostel,Ayensu,6.4,Single,Mixed,6750,28,28,28,100,Yes,Yes,Yes,Yes,No,Pending Review,24 08 2025,3.7,7,Hostel Verification Team
+HST0212,Royal Palm Hostel,Abura,3.5,3-in-a-room,Female,3250,23,69,68,98.6,Yes,Yes,Yes,Yes,Yes,Verified,20 03 2025,4.4,12,Hostel Verification Team
+HST0213,Kings Court Hostel,Kotokuraba,6.7,4-in-a-room,Female,3300,30,120,111,92.5,Yes,Yes,No,Yes,No,Pending Review,29 01 2026,5,14,Hostel Verification Team
+HST0214,Campus View Hostel,Abura,2.1,Single,Mixed,6000,29,29,15,51.7,Yes,Yes,No,Yes,Yes,Pending Review,29 01 2026,4.5,15,Hostel Verification Team
+HST0215,Campus View Hostel,Ayensu,7.1,2-in-a-room,Female,6750,18,36,13,36.1,No,Yes,Yes,Yes,Yes,Pending Review,23 04 2025,3.9,9,Hostel Verification Team
+HST0216,Garden City Hostel,University Area,1.3,3-in-a-room,Mixed,2500,35,105,47,44.8,Yes,Yes,Yes,No,Yes,Pending Review,7 11 2025,4.2,5,Hostel Verification Team
+HST0217,Scholar's Lodge,Kwaprow,3.7,Single,Female,7750,33,33,26,78.8,No,Yes,No,Yes,Yes,Pending Review,25 05 2026,4.4,11,Hostel Verification Team
+HST0218,Green Valley Hostel,Pedu,3.4,3-in-a-room,Male,3250,25,75,62,82.7,Yes,No,Yes,Yes,Yes,Pending Review,14 03 2025,3.7,18,Hostel Verification Team
+HST0219,Prime Scholars Hostel,Amamoma,6.3,4-in-a-room,Mixed,3800,38,152,126,82.9,No,Yes,Yes,No,Yes,Pending Review,8 09 2025,3.4,16,Hostel Verification Team
+HST0220,Hilltop Hostel,Kotokuraba,1.1,4-in-a-room,Mixed,2300,18,72,38,52.8,Yes,No,Yes,Yes,Yes,Pending Review,26 07 2025,3.7,6,Hostel Verification Team
+HST0221,Ocean Breeze Hostel,Pedu,2.5,Single,Female,6000,32,32,28,87.5,No,Yes,No,Yes,Yes,Pending Review,20 02 2026,3.4,18,Hostel Verification Team
+HST0222,Ocean Breeze Hostel,Kotokuraba,4.3,Single,Mixed,6250,44,44,39,88.6,Yes,No,Yes,Yes,Yes,Pending Review,23 04 2025,3.9,15,Hostel Verification Team
+HST0223,Hilltop Hostel,University Area,0.5,3-in-a-room,Male,4000,17,51,42,82.4,Yes,Yes,No,No,Yes,Pending Review,18 02 2025,5,15,Hostel Verification Team
+HST0224,New Era Hostel,Pedu,2.5,4-in-a-room,Male,4550,14,56,33,58.9,Yes,No,Yes,Yes,No,Pending Review,27 05 2025,3.4,2,Hostel Verification Team
+HST0225,Eagle's Nest Hostel,Cape Coast,6.9,4-in-a-room,Mixed,4550,39,156,151,96.8,Yes,Yes,No,Yes,Yes,Pending Review,22 06 2026,3.9,9,Hostel Verification Team
+HST0226,Garden City Hostel,Amamoma,1.5,2-in-a-room,Female,3750,23,46,17,37,Yes,Yes,No,Yes,Yes,Pending Review,22 04 2026,3.5,11,Hostel Verification Team
+HST0227,Victory Hostel,Ayensu,4.8,Single,Mixed,10750,9,9,4,44.4,No,Yes,Yes,No,No,Not Verified,26 01 2026,4.6,11,Hostel Verification Team
+HST0228,Royal Palm Hostel,Pedu,0.4,Single,Mixed,6750,44,44,39,88.6,Yes,Yes,No,Yes,Yes,Pending Review,17 08 2025,5,13,Hostel Verification Team
+HST0229,Campus View Hostel,Amamoma,3.7,2-in-a-room,Mixed,4750,8,16,8,50,No,Yes,Yes,Yes,Yes,Pending Review,25 09 2025,4,14,Hostel Verification Team
+HST0230,Victory Hostel,Ayensu,4.5,Single,Mixed,9500,31,31,27,87.1,Yes,Yes,Yes,Yes,Yes,Verified,26 10 2025,4.6,8,Hostel Verification Team
+HST0231,New Era Hostel,Pedu,2.1,3-in-a-room,Female,3250,17,51,50,98,Yes,Yes,No,Yes,No,Pending Review,13 09 2025,2.9,0,Hostel Verification Team
+HST0232,Kings Court Hostel,Ayensu,3,Single,Female,10000,44,44,41,93.2,No,Yes,No,Yes,Yes,Pending Review,23 07 2025,2.4,16,Hostel Verification Team
+HST0233,University Heights Hostel,Kotokuraba,2.3,4-in-a-room,Female,2300,24,96,56,58.3,Yes,Yes,Yes,Yes,Yes,Verified,19 12 2025,4.1,13,Hostel Verification Team
+HST0234,Garden City Hostel,Pedu,3.6,Single,Male,9250,11,11,4,36.4,No,Yes,No,Yes,Yes,Pending Review,8 05 2026,3.5,13,Hostel Verification Team
+HST0235,Ocean Breeze Hostel,Kotokuraba,7.4,3-in-a-room,Female,4000,44,132,104,78.8,No,Yes,Yes,Yes,Yes,Pending Review,5 06 2025,3.9,5,Hostel Verification Team
+HST0236,Blue Sky Hostel,Cape Coast,5.8,2-in-a-room,Female,4750,39,78,77,98.7,No,No,No,Yes,No,Not Verified,10 04 2025,4.2,13,Hostel Verification Team
+HST0237,Comfort Zone Hostel,Amamoma,0.5,2-in-a-room,Male,6250,8,16,10,62.5,Yes,Yes,No,Yes,Yes,Pending Review,7 07 2026,3.8,7,Hostel Verification Team
+HST0238,Sunrise Hostel,Ayensu,3.9,3-in-a-room,Female,3000,12,36,13,36.1,Yes,No,No,Yes,No,Not Verified,11 11 2025,3.5,4,Hostel Verification Team
+HST0239,Maple Court Hostel,Abura,5.7,2-in-a-room,Male,6500,9,18,9,50,Yes,Yes,No,Yes,Yes,Pending Review,27 08 2025,3.5,3,Hostel Verification Team
+HST0240,Comfort Zone Hostel,Pedu,5.8,Single,Mixed,10250,11,11,4,36.4,No,No,Yes,Yes,Yes,Pending Review,30 01 2025,4.6,3,Hostel Verification Team
+HST0241,Blue Sky Hostel,University Area,5.3,2-in-a-room,Male,3500,27,54,44,81.5,Yes,Yes,Yes,Yes,Yes,Verified,23 04 2025,4.2,9,Hostel Verification Team
+HST0242,Hilltop Hostel,Cape Coast,5.9,2-in-a-room,Male,6250,34,68,41,60.3,No,Yes,Yes,Yes,No,Pending Review,23 06 2025,4.2,7,Hostel Verification Team
+HST0243,Campus View Hostel,Kwaprow,6.8,4-in-a-room,Male,2300,13,52,50,96.2,Yes,No,No,Yes,Yes,Pending Review,27 03 2025,4,9,Hostel Verification Team
+HST0244,Green Valley Hostel,Pedu,2.8,3-in-a-room,Female,4000,15,45,18,40,Yes,Yes,No,Yes,Yes,Pending Review,25 02 2025,4.2,11,Hostel Verification Team
+HST0245,Hilltop Hostel,Pedu,6.6,Single,Male,8250,29,29,15,51.7,Yes,No,Yes,No,No,Not Verified,6 05 2025,4.2,15,Hostel Verification Team
+HST0246,Sunrise Hostel,Kotokuraba,5.3,Single,Mixed,6750,14,14,10,71.4,No,Yes,No,No,Yes,Not Verified,19 05 2026,3.2,0,Hostel Verification Team
+HST0247,Ocean Breeze Hostel,University Area,6.9,Single,Male,8750,36,36,13,36.1,Yes,Yes,Yes,Yes,Yes,Verified,15 03 2025,3.2,16,Hostel Verification Team
+HST0248,Kings Court Hostel,Cape Coast,3.7,4-in-a-room,Male,2300,43,172,138,80.2,No,No,No,Yes,Yes,Not Verified,6 03 2025,3.9,5,Hostel Verification Team
+HST0249,Maple Court Hostel,Abura,2,3-in-a-room,Female,2500,40,120,70,58.3,No,No,Yes,No,Yes,Not Verified,1 02 2026,3,18,Hostel Verification Team
+HST0250,New Era Hostel,Kwaprow,7.4,Single,Female,6250,33,33,24,72.7,Yes,Yes,No,Yes,Yes,Pending Review,15 02 2025,4.3,14,Hostel Verification Team
+HST0251,Starlight Hostel,Amamoma,6.2,4-in-a-room,Female,3050,43,172,158,91.9,Yes,Yes,Yes,Yes,No,Pending Review,9 05 2026,3.4,0,Hostel Verification Team
+HST0252,Prime Scholars Hostel,Abura,5.3,Single,Female,6750,39,39,17,43.6,Yes,Yes,No,Yes,Yes,Pending Review,5 03 2026,4.9,3,Hostel Verification Team
+HST0253,Peace Haven Hostel,University Area,6.2,2-in-a-room,Female,6000,14,28,22,78.6,Yes,No,Yes,Yes,No,Pending Review,26 02 2025,3.8,0,Hostel Verification Team
+HST0254,Garden City Hostel,University Area,6.9,2-in-a-room,Female,4750,16,32,14,43.8,Yes,Yes,Yes,Yes,No,Pending Review,10 02 2026,4,12,Hostel Verification Team
+HST0255,Scholar's Lodge,University Area,6.1,2-in-a-room,Mixed,6750,40,80,47,58.8,Yes,Yes,Yes,Yes,Yes,Verified,24 07 2026,4.3,11,Hostel Verification Team
+HST0256,University Heights Hostel,Abura,5.4,3-in-a-room,Male,4500,38,114,113,99.1,Yes,Yes,Yes,Yes,No,Pending Review,13 03 2026,3.9,12,Hostel Verification Team
+HST0257,Green Valley Hostel,Amamoma,1.7,2-in-a-room,Mixed,5750,24,48,25,52.1,Yes,Yes,No,Yes,Yes,Pending Review,14 03 2025,4.9,14,Hostel Verification Team
+HST0258,Prime Scholars Hostel,Cape Coast,5.6,4-in-a-room,Male,2550,40,160,156,97.5,No,Yes,Yes,Yes,No,Pending Review,31 10 2025,4.7,17,Hostel Verification Team
+HST0259,Campus View Hostel,Pedu,1.7,4-in-a-room,Mixed,2550,31,124,118,95.2,No,Yes,Yes,Yes,Yes,Pending Review,23 07 2026,4.1,2,Hostel Verification Team
+HST0260,Sunrise Hostel,Ayensu,0.5,3-in-a-room,Male,4500,24,72,33,45.8,No,Yes,Yes,Yes,Yes,Pending Review,23 06 2025,4.3,1,Hostel Verification Team
+HST0261,New Era Hostel,Amamoma,5.8,3-in-a-room,Female,4250,44,132,116,87.9,Yes,Yes,No,Yes,Yes,Pending Review,11 01 2026,4.6,16,Hostel Verification Team
+HST0262,Prime Scholars Hostel,Ayensu,0.9,2-in-a-room,Mixed,5000,29,58,41,70.7,No,Yes,No,Yes,Yes,Pending Review,14 01 2026,4.3,3,Hostel Verification Team
+HST0263,Starlight Hostel,University Area,2,2-in-a-room,Mixed,3750,28,56,43,76.8,Yes,Yes,No,No,Yes,Pending Review,6 05 2025,4.2,16,Hostel Verification Team
+HST0264,Eagle's Nest Hostel,University Area,0.5,2-in-a-room,Mixed,6000,40,80,33,41.2,Yes,Yes,No,Yes,Yes,Pending Review,18 04 2025,3.5,6,Hostel Verification Team
+HST0265,Kings Court Hostel,Kwaprow,1.7,4-in-a-room,Male,4300,12,48,25,52.1,Yes,Yes,Yes,No,Yes,Pending Review,3 02 2025,4.2,1,Hostel Verification Team
+HST0266,Garden City Hostel,Cape Coast,6.9,4-in-a-room,Male,3300,36,144,130,90.3,No,Yes,Yes,No,Yes,Pending Review,28 02 2026,4.4,17,Hostel Verification Team
+HST0267,Hilltop Hostel,Kwaprow,5.7,Single,Female,11000,12,12,9,75,Yes,Yes,No,Yes,Yes,Pending Review,8 06 2026,4.1,9,Hostel Verification Team
+HST0268,Campus View Hostel,University Area,1.3,2-in-a-room,Mixed,4500,33,66,57,86.4,Yes,Yes,No,Yes,Yes,Pending Review,8 11 2025,3.4,17,Hostel Verification Team
+HST0269,Ocean Breeze Hostel,Kwaprow,0.5,4-in-a-room,Female,3800,43,172,70,40.7,No,Yes,Yes,Yes,Yes,Pending Review,18 11 2025,4.3,5,Hostel Verification Team
+HST0270,Peace Haven Hostel,Kwaprow,1.5,Single,Female,11500,43,43,29,67.4,Yes,Yes,Yes,Yes,Yes,Verified,25 03 2025,4.7,18,Hostel Verification Team
+HST0271,New Era Hostel,Abura,1.1,2-in-a-room,Female,4250,26,52,22,42.3,Yes,Yes,Yes,Yes,No,Pending Review,27 07 2025,4.4,18,Hostel Verification Team
+HST0272,Kings Court Hostel,Kotokuraba,0.2,2-in-a-room,Female,5250,35,70,41,58.6,No,No,Yes,Yes,Yes,Pending Review,13 01 2026,4.6,11,Hostel Verification Team
+HST0273,Maple Court Hostel,Kwaprow,1.5,Single,Mixed,12000,25,25,12,48,Yes,Yes,No,Yes,Yes,Pending Review,15 07 2026,4.5,0,Hostel Verification Team
+HST0274,Garden City Hostel,Ayensu,5.8,2-in-a-room,Mixed,3750,43,86,46,53.5,No,Yes,Yes,No,Yes,Pending Review,20 07 2026,3.4,18,Hostel Verification Team
+HST0275,Scholar's Lodge,Kotokuraba,3.6,Single,Mixed,8500,31,31,26,83.9,Yes,No,No,Yes,Yes,Pending Review,20 01 2025,4.6,5,Hostel Verification Team
+HST0276,Ocean Breeze Hostel,University Area,7.1,Single,Female,7250,39,39,20,51.3,Yes,Yes,Yes,Yes,Yes,Verified,15 03 2025,5,16,Hostel Verification Team
+HST0277,Comfort Zone Hostel,University Area,6.9,Single,Male,5750,28,28,12,42.9,Yes,No,No,Yes,Yes,Pending Review,27 06 2026,3.5,12,Hostel Verification Team
+HST0278,Victory Hostel,Pedu,2.9,2-in-a-room,Male,7500,33,66,45,68.2,Yes,Yes,No,No,No,Not Verified,29 12 2025,4.6,14,Hostel Verification Team
+HST0279,Golden Gate Hostel,Kwaprow,4,3-in-a-room,Female,3250,17,51,28,54.9,Yes,No,No,Yes,Yes,Pending Review,20 06 2025,3.9,10,Hostel Verification Team
+HST0280,Maple Court Hostel,Cape Coast,4.5,4-in-a-room,Male,1800,23,92,34,37,Yes,Yes,No,Yes,Yes,Pending Review,20 05 2025,3.4,1,Hostel Verification Team
+HST0281,Blue Sky Hostel,Kotokuraba,4,4-in-a-room,Mixed,4050,44,176,142,80.7,No,No,Yes,Yes,Yes,Pending Review,29 01 2025,4.5,15,Hostel Verification Team
+HST0282,Ocean Breeze Hostel,Kotokuraba,4.7,3-in-a-room,Male,3000,29,87,59,67.8,Yes,Yes,Yes,Yes,No,Pending Review,21 03 2025,4.9,0,Hostel Verification Team
+HST0283,Victory Hostel,Ayensu,6.2,Single,Male,6750,38,38,32,84.2,Yes,Yes,Yes,Yes,Yes,Verified,18 02 2025,3.5,13,Hostel Verification Team
+HST0284,Victory Hostel,Ayensu,1.9,4-in-a-room,Female,3300,30,120,117,97.5,No,Yes,Yes,No,Yes,Pending Review,20 04 2025,3.9,2,Hostel Verification Team
+HST0285,Hilltop Hostel,Ayensu,2.1,Single,Mixed,11000,8,8,6,75,Yes,Yes,Yes,Yes,Yes,Verified,29 06 2026,3.8,13,Hostel Verification Team
+HST0286,Garden City Hostel,Pedu,2.1,4-in-a-room,Mixed,4050,31,124,121,97.6,No,Yes,Yes,No,Yes,Pending Review,19 10 2025,4.2,11,Hostel Verification Team
+HST0287,Prime Scholars Hostel,University Area,2.1,3-in-a-room,Female,4750,30,90,80,88.9,Yes,No,No,Yes,Yes,Pending Review,21 02 2026,4.5,5,Hostel Verification Team
+HST0288,Prime Scholars Hostel,Amamoma,1.4,Single,Male,11750,13,13,6,46.2,Yes,Yes,Yes,No,Yes,Pending Review,7 05 2026,4.4,11,Hostel Verification Team
+HST0289,Hilltop Hostel,Amamoma,5.5,4-in-a-room,Mixed,4050,41,164,93,56.7,Yes,Yes,Yes,Yes,No,Pending Review,9 03 2025,4,16,Hostel Verification Team
+HST0290,Victory Hostel,Cape Coast,4.7,Single,Mixed,8250,23,23,8,34.8,Yes,No,Yes,Yes,Yes,Pending Review,20 06 2025,4.1,12,Hostel Verification Team
+HST0291,Peace Haven Hostel,Amamoma,5.6,Single,Female,6000,43,43,24,55.8,Yes,No,Yes,Yes,Yes,Pending Review,1 01 2026,3.6,12,Hostel Verification Team
+HST0292,Victory Hostel,Kwaprow,4.3,3-in-a-room,Female,3750,15,45,40,88.9,No,No,No,Yes,Yes,Not Verified,19 06 2026,3.8,18,Hostel Verification Team
+HST0293,Golden Gate Hostel,Abura,7.2,4-in-a-room,Female,4300,37,148,126,85.1,Yes,No,Yes,No,Yes,Pending Review,7 02 2025,3.8,7,Hostel Verification Team
+HST0294,Kings Court Hostel,Abura,4,Single,Male,11000,24,24,15,62.5,Yes,Yes,No,Yes,No,Pending Review,31 10 2025,3.6,17,Hostel Verification Team
+HST0295,Maple Court Hostel,Abura,2.8,3-in-a-room,Female,3000,20,60,52,86.7,Yes,Yes,Yes,Yes,Yes,Verified,2 08 2025,4.5,6,Hostel Verification Team
+HST0296,Ocean Breeze Hostel,Kwaprow,1.1,Single,Female,10750,39,39,32,82.1,Yes,No,Yes,Yes,No,Pending Review,16 01 2025,3.1,18,Hostel Verification Team
+HST0297,Maple Court Hostel,Kotokuraba,7.4,3-in-a-room,Female,4000,22,66,59,89.4,Yes,Yes,Yes,Yes,No,Pending Review,21 05 2025,4.6,12,Hostel Verification Team
+HST0298,Sunrise Hostel,University Area,2.5,Single,Female,5500,21,21,13,61.9,Yes,Yes,No,Yes,Yes,Pending Review,23 04 2025,3.3,17,Hostel Verification Team
+HST0299,Golden Gate Hostel,Pedu,3.6,3-in-a-room,Male,3750,19,57,50,87.7,Yes,Yes,No,Yes,No,Pending Review,20 03 2026,3.9,12,Hostel Verification Team
+HST0300,Garden City Hostel,Cape Coast,6.1,3-in-a-room,Male,5500,23,69,59,85.5,Yes,No,Yes,No,Yes,Pending Review,28 03 2026,4.3,0,Hostel Verification Team
+HST0301,Kings Court Hostel,University Area,1.2,3-in-a-room,Mixed,5500,39,117,78,66.7,Yes,Yes,Yes,Yes,No,Pending Review,23 09 2025,4.2,6,Hostel Verification Team
+HST0302,Sunrise Hostel,University Area,5.6,3-in-a-room,Mixed,3750,31,93,67,72,Yes,Yes,Yes,Yes,Yes,Verified,30 09 2025,3.4,6,Hostel Verification Team
+HST0303,Garden City Hostel,Kotokuraba,7.3,3-in-a-room,Male,3750,28,84,72,85.7,No,Yes,Yes,No,No,Not Verified,16 06 2026,3.8,14,Hostel Verification Team
+HST0304,New Era Hostel,Ayensu,4.8,4-in-a-room,Female,2050,13,52,28,53.8,Yes,Yes,Yes,Yes,Yes,Verified,27 12 2025,3.8,12,Hostel Verification Team
+HST0305,Eagle's Nest Hostel,Abura,5.7,4-in-a-room,Male,3300,18,72,36,50,Yes,Yes,No,Yes,Yes,Pending Review,2 02 2025,4.1,6,Hostel Verification Team
+HST0306,Maple Court Hostel,Amamoma,0.4,4-in-a-room,Male,3800,13,52,24,46.2,No,Yes,No,Yes,Yes,Pending Review,5 10 2025,4.2,7,Hostel Verification Team
+HST0307,Scholar's Lodge,University Area,4.8,2-in-a-room,Mixed,7500,18,36,12,33.3,No,Yes,Yes,Yes,Yes,Pending Review,14 02 2025,2.6,17,Hostel Verification Team
+HST0308,Prime Scholars Hostel,Kotokuraba,4.5,4-in-a-room,Female,4300,44,176,116,65.9,Yes,Yes,Yes,Yes,Yes,Verified,30 06 2026,4.5,14,Hostel Verification Team
+HST0309,Starlight Hostel,Ayensu,2.1,3-in-a-room,Female,2500,8,24,24,100,Yes,No,Yes,Yes,Yes,Pending Review,29 05 2025,3.7,15,Hostel Verification Team
+HST0310,Hilltop Hostel,Cape Coast,6,3-in-a-room,Female,3250,34,102,90,88.2,No,No,No,Yes,Yes,Not Verified,18 02 2026,4.9,7,Hostel Verification Team
+HST0311,Royal Palm Hostel,Ayensu,4.8,3-in-a-room,Female,3500,42,126,78,61.9,Yes,Yes,Yes,Yes,Yes,Verified,8 03 2026,3.5,3,Hostel Verification Team
+HST0312,Hilltop Hostel,University Area,1.6,Single,Mixed,6500,11,11,11,100,Yes,Yes,Yes,Yes,Yes,Verified,1 02 2025,3.4,14,Hostel Verification Team
+HST0313,Campus View Hostel,Cape Coast,0.9,Single,Male,9250,21,21,12,57.1,No,Yes,Yes,Yes,No,Pending Review,16 03 2026,4.8,10,Hostel Verification Team
+HST0314,Green Valley Hostel,Pedu,5.9,Single,Female,9750,38,38,18,47.4,Yes,Yes,Yes,Yes,No,Pending Review,25 07 2025,4.4,12,Hostel Verification Team
+HST0315,Golden Gate Hostel,Amamoma,1.7,Single,Female,9500,21,21,14,66.7,Yes,Yes,Yes,Yes,Yes,Verified,12 02 2026,3.5,8,Hostel Verification Team
+HST0316,Green Valley Hostel,Cape Coast,7.3,2-in-a-room,Mixed,6750,28,56,19,33.9,Yes,Yes,Yes,Yes,Yes,Verified,30 06 2025,4.1,1,Hostel Verification Team
+HST0317,Maple Court Hostel,Kotokuraba,2.9,Single,Male,7250,18,18,13,72.2,Yes,Yes,Yes,Yes,Yes,Verified,13 04 2025,4.1,17,Hostel Verification Team
+HST0318,New Era Hostel,Abura,6.1,4-in-a-room,Mixed,4550,20,80,29,36.2,Yes,No,Yes,Yes,Yes,Pending Review,31 01 2026,3.7,14,Hostel Verification Team
+HST0319,Scholar's Lodge,University Area,1.6,2-in-a-room,Female,6250,28,56,48,85.7,Yes,No,No,Yes,Yes,Pending Review,18 10 2025,4.3,9,Hostel Verification Team
+HST0320,Campus View Hostel,Ayensu,5.6,Single,Mixed,10250,31,31,29,93.5,No,Yes,No,Yes,Yes,Pending Review,11 09 2025,3.4,16,Hostel Verification Team
+HST0321,Maple Court Hostel,Kotokuraba,4.7,3-in-a-room,Male,4000,28,84,36,42.9,Yes,Yes,Yes,Yes,Yes,Verified,18 04 2025,4.3,6,Hostel Verification Team
+HST0322,Garden City Hostel,Ayensu,5,3-in-a-room,Mixed,2500,31,93,46,49.5,No,Yes,No,Yes,Yes,Pending Review,23 03 2025,4.2,14,Hostel Verification Team
+HST0323,Green Valley Hostel,Abura,4.3,4-in-a-room,Mixed,3050,11,44,41,93.2,Yes,Yes,Yes,Yes,Yes,Verified,9 10 2025,4.7,16,Hostel Verification Team
+HST0324,Comfort Zone Hostel,Cape Coast,1.6,2-in-a-room,Male,4750,43,86,77,89.5,No,No,No,Yes,Yes,Not Verified,11 03 2026,4.5,3,Hostel Verification Team
+HST0325,University Heights Hostel,Ayensu,3.9,2-in-a-room,Mixed,7000,30,60,41,68.3,No,Yes,No,Yes,No,Not Verified,8 12 2025,3.6,7,Hostel Verification Team
+HST0326,Blue Sky Hostel,Abura,7.2,4-in-a-room,Male,3300,8,32,12,37.5,Yes,Yes,Yes,Yes,Yes,Verified,28 10 2025,3.9,7,Hostel Verification Team
+HST0327,New Era Hostel,Amamoma,5.8,3-in-a-room,Male,4500,40,120,113,94.2,Yes,Yes,Yes,Yes,Yes,Verified,17 06 2025,3.9,4,Hostel Verification Team
+HST0328,Golden Gate Hostel,Pedu,6.1,Single,Male,10000,33,33,29,87.9,Yes,No,Yes,Yes,Yes,Pending Review,20 08 2025,5,18,Hostel Verification Team
+HST0329,Hilltop Hostel,Pedu,0.5,4-in-a-room,Male,2050,11,44,44,100,Yes,Yes,Yes,Yes,No,Pending Review,18 12 2025,3.5,0,Hostel Verification Team
+HST0330,Scholar's Lodge,Amamoma,2.5,2-in-a-room,Mixed,6000,40,80,72,90,No,No,No,Yes,Yes,Not Verified,24 08 2025,3.4,18,Hostel Verification Team
+HST0331,Royal Palm Hostel,Cape Coast,3.4,4-in-a-room,Mixed,2300,16,64,43,67.2,No,Yes,No,No,Yes,Not Verified,4 04 2025,3.5,2,Hostel Verification Team
+HST0332,Ocean Breeze Hostel,Kotokuraba,3.7,2-in-a-room,Mixed,7250,33,66,64,97,Yes,No,Yes,Yes,Yes,Pending Review,29 07 2025,4.3,10,Hostel Verification Team
+HST0333,Garden City Hostel,Kwaprow,1,4-in-a-room,Female,3300,31,124,87,70.2,Yes,Yes,No,Yes,Yes,Pending Review,24 07 2025,4.8,5,Hostel Verification Team
+HST0334,Hilltop Hostel,Kotokuraba,3.4,2-in-a-room,Female,5000,31,62,30,48.4,Yes,Yes,Yes,Yes,Yes,Verified,7 04 2025,3.9,0,Hostel Verification Team
+HST0335,Sunrise Hostel,Pedu,3.5,Single,Female,8000,21,21,18,85.7,Yes,No,No,Yes,Yes,Pending Review,14 07 2026,3.7,4,Hostel Verification Team
+HST0336,Garden City Hostel,Amamoma,2.1,Single,Mixed,7750,20,20,19,95,Yes,Yes,No,Yes,No,Pending Review,14 10 2025,3.2,12,Hostel Verification Team
+HST0337,Blue Sky Hostel,Abura,6.5,Single,Mixed,7750,32,32,18,56.2,Yes,Yes,Yes,Yes,Yes,Verified,3 02 2026,3.4,6,Hostel Verification Team
+HST0338,Campus View Hostel,Amamoma,2,3-in-a-room,Male,3750,39,117,90,76.9,Yes,Yes,No,Yes,Yes,Pending Review,19 06 2025,4,9,Hostel Verification Team
+HST0339,Victory Hostel,Pedu,6.1,3-in-a-room,Mixed,4000,9,27,26,96.3,No,Yes,Yes,Yes,Yes,Pending Review,23 10 2025,3.9,2,Hostel Verification Team
+HST0340,Hilltop Hostel,Cape Coast,3.2,2-in-a-room,Female,6750,27,54,39,72.2,Yes,Yes,No,Yes,Yes,Pending Review,14 04 2026,3.3,4,Hostel Verification Team
+HST0341,Victory Hostel,Kotokuraba,3.3,2-in-a-room,Female,4750,28,56,23,41.1,Yes,Yes,Yes,Yes,Yes,Verified,9 07 2026,4.4,10,Hostel Verification Team
+HST0342,Scholar's Lodge,University Area,5.6,3-in-a-room,Male,3000,20,60,27,45,Yes,Yes,No,Yes,Yes,Pending Review,24 05 2025,3.6,7,Hostel Verification Team
+HST0343,Campus View Hostel,Abura,0.8,4-in-a-room,Female,2300,40,160,133,83.1,No,No,Yes,Yes,Yes,Pending Review,5 05 2026,4.2,4,Hostel Verification Team
+HST0344,Campus View Hostel,Pedu,7.1,2-in-a-room,Female,5000,21,42,16,38.1,Yes,No,No,No,No,Not Verified,10 07 2025,4.3,7,Hostel Verification Team
+HST0345,Comfort Zone Hostel,Amamoma,4.6,4-in-a-room,Mixed,4550,28,112,89,79.5,No,Yes,Yes,Yes,Yes,Pending Review,13 07 2026,3.5,7,Hostel Verification Team
+HST0346,Green Valley Hostel,Ayensu,4,Single,Mixed,7000,26,26,23,88.5,Yes,No,Yes,Yes,Yes,Pending Review,21 02 2026,3.9,9,Hostel Verification Team
+HST0347,Green Valley Hostel,Kotokuraba,3.6,4-in-a-room,Mixed,2050,40,160,70,43.8,Yes,No,Yes,Yes,No,Pending Review,13 07 2025,4.3,0,Hostel Verification Team
+HST0348,Peace Haven Hostel,University Area,0.9,3-in-a-room,Mixed,5250,18,54,25,46.3,Yes,Yes,No,Yes,No,Pending Review,13 04 2025,4.7,16,Hostel Verification Team
+HST0349,Comfort Zone Hostel,Kotokuraba,3,4-in-a-room,Female,1800,18,72,46,63.9,Yes,No,Yes,Yes,Yes,Pending Review,12 06 2025,3.7,9,Hostel Verification Team
+HST0350,Scholar's Lodge,Kotokuraba,1.1,2-in-a-room,Male,5000,8,16,14,87.5,No,Yes,Yes,Yes,No,Pending Review,26 09 2025,4.9,15,Hostel Verification Team
+HST0351,Peace Haven Hostel,University Area,3.5,4-in-a-room,Male,2050,8,32,18,56.2,Yes,Yes,Yes,Yes,Yes,Verified,24 07 2026,3.9,1,Hostel Verification Team
+HST0352,Garden City Hostel,Pedu,2.6,Single,Female,5750,14,14,10,71.4,Yes,No,No,Yes,Yes,Pending Review,11 07 2025,3.9,18,Hostel Verification Team
+HST0353,Green Valley Hostel,Kwaprow,5.8,3-in-a-room,Male,3750,32,96,41,42.7,Yes,Yes,Yes,Yes,Yes,Verified,23 03 2026,3.7,8,Hostel Verification Team
+HST0354,Peace Haven Hostel,Amamoma,1,Single,Male,9250,26,26,22,84.6,No,No,Yes,Yes,Yes,Pending Review,30 11 2025,4.5,15,Hostel Verification Team
+HST0355,Hilltop Hostel,Cape Coast,5.4,2-in-a-room,Mixed,3500,15,30,10,33.3,No,No,No,Yes,Yes,Not Verified,1 05 2026,3.6,1,Hostel Verification Team
+HST0356,Peace Haven Hostel,Amamoma,4.9,3-in-a-room,Mixed,3500,12,36,21,58.3,Yes,Yes,Yes,Yes,Yes,Verified,13 11 2025,4.6,12,Hostel Verification Team
+HST0357,Garden City Hostel,Amamoma,6.3,2-in-a-room,Female,6000,29,58,50,86.2,Yes,No,Yes,Yes,Yes,Pending Review,10 05 2026,4.5,17,Hostel Verification Team
+HST0358,Green Valley Hostel,Pedu,4.3,3-in-a-room,Female,4500,42,126,46,36.5,Yes,Yes,Yes,Yes,Yes,Verified,11 08 2025,3.6,0,Hostel Verification Team
+HST0359,Comfort Zone Hostel,Kotokuraba,4.4,4-in-a-room,Female,2300,15,60,40,66.7,Yes,No,Yes,Yes,Yes,Pending Review,28 11 2025,3.3,7,Hostel Verification Team
+HST0360,Peace Haven Hostel,Pedu,1.5,3-in-a-room,Female,5500,10,30,16,53.3,Yes,Yes,Yes,No,Yes,Pending Review,14 04 2025,4.7,10,Hostel Verification Team
+HST0361,Victory Hostel,Pedu,5.9,2-in-a-room,Mixed,4250,41,82,71,86.6,No,Yes,Yes,Yes,Yes,Pending Review,25 05 2025,3.9,0,Hostel Verification Team
+HST0362,Royal Palm Hostel,Abura,3.6,Single,Male,6250,41,41,38,92.7,Yes,Yes,No,Yes,Yes,Pending Review,25 11 2025,4.2,6,Hostel Verification Team
+HST0363,Scholar's Lodge,Pedu,4.1,4-in-a-room,Female,4300,15,60,38,63.3,Yes,Yes,Yes,Yes,Yes,Verified,11 06 2025,3.3,6,Hostel Verification Team
+HST0364,Ocean Breeze Hostel,Pedu,4.4,2-in-a-room,Male,4000,27,54,39,72.2,Yes,No,Yes,No,Yes,Pending Review,17 07 2026,3.8,1,Hostel Verification Team
+HST0365,Comfort Zone Hostel,Amamoma,0.8,4-in-a-room,Mixed,2300,45,180,142,78.9,Yes,Yes,Yes,Yes,Yes,Verified,11 04 2026,3.8,14,Hostel Verification Team
+HST0366,Eagle's Nest Hostel,Kwaprow,3.5,4-in-a-room,Female,3550,22,88,44,50,Yes,Yes,Yes,Yes,Yes,Verified,6 06 2025,3.9,10,Hostel Verification Team
+HST0367,Maple Court Hostel,Amamoma,0.7,Single,Female,8250,38,38,27,71.1,Yes,Yes,No,Yes,Yes,Pending Review,3 07 2025,4.4,12,Hostel Verification Team
+HST0368,Prime Scholars Hostel,Kwaprow,6,4-in-a-room,Male,3300,45,180,114,63.3,No,Yes,Yes,Yes,Yes,Pending Review,11 09 2025,3.1,10,Hostel Verification Team
+HST0369,Garden City Hostel,Ayensu,5.9,4-in-a-room,Male,4050,29,116,109,94,No,Yes,No,Yes,Yes,Pending Review,8 09 2025,3.6,18,Hostel Verification Team
+HST0370,Eagle's Nest Hostel,Kotokuraba,2.4,4-in-a-room,Mixed,2050,14,56,43,76.8,Yes,Yes,Yes,No,Yes,Pending Review,11 12 2025,3.7,18,Hostel Verification Team
+HST0371,Campus View Hostel,Kotokuraba,5,4-in-a-room,Female,3800,26,104,85,81.7,Yes,Yes,No,Yes,Yes,Pending Review,12 04 2026,4.2,18,Hostel Verification Team
+HST0372,Starlight Hostel,Kwaprow,4.5,4-in-a-room,Male,2300,26,104,43,41.3,Yes,Yes,No,Yes,Yes,Pending Review,23 01 2026,3.2,9,Hostel Verification Team
+HST0373,Golden Gate Hostel,Ayensu,5.3,4-in-a-room,Female,4300,28,112,87,77.7,Yes,Yes,No,No,No,Not Verified,1 03 2026,4.4,15,Hostel Verification Team
+HST0374,Kings Court Hostel,Kotokuraba,2.3,2-in-a-room,Male,4500,8,16,6,37.5,No,Yes,No,Yes,No,Not Verified,26 01 2025,4.5,2,Hostel Verification Team
+HST0375,Kings Court Hostel,University Area,6.7,4-in-a-room,Female,4050,19,76,55,72.4,Yes,Yes,Yes,No,No,Pending Review,15 06 2026,3.9,5,Hostel Verification Team
+HST0376,Golden Gate Hostel,Pedu,3.2,3-in-a-room,Mixed,2500,10,30,28,93.3,No,Yes,No,Yes,Yes,Pending Review,19 05 2026,4,4,Hostel Verification Team
+HST0377,Victory Hostel,Pedu,3.6,Single,Mixed,9500,13,13,7,53.8,Yes,Yes,No,Yes,Yes,Pending Review,8 05 2026,4.1,17,Hostel Verification Team
+HST0378,Maple Court Hostel,Abura,3.3,3-in-a-room,Male,3500,18,54,20,37,No,Yes,No,Yes,Yes,Pending Review,17 11 2025,3.4,18,Hostel Verification Team
+HST0379,Scholar's Lodge,Amamoma,2.3,Single,Male,6500,40,40,16,40,Yes,Yes,No,Yes,Yes,Pending Review,21 10 2025,4.3,8,Hostel Verification Team
+HST0380,Garden City Hostel,Kotokuraba,5,3-in-a-room,Male,5500,19,57,35,61.4,Yes,Yes,No,No,Yes,Pending Review,8 09 2025,4,2,Hostel Verification Team
+HST0381,Hilltop Hostel,Kotokuraba,6.3,4-in-a-room,Male,3300,23,92,74,80.4,Yes,Yes,No,Yes,Yes,Pending Review,5 04 2026,4,8,Hostel Verification Team
+HST0382,Eagle's Nest Hostel,Ayensu,3.7,4-in-a-room,Female,4550,42,168,87,51.8,Yes,No,Yes,No,No,Not Verified,2 02 2026,3.7,0,Hostel Verification Team
+HST0383,Eagle's Nest Hostel,Ayensu,5.2,Single,Female,6250,42,42,34,81,Yes,Yes,Yes,No,Yes,Pending Review,7 01 2026,4,3,Hostel Verification Team
+HST0384,Golden Gate Hostel,Cape Coast,4,2-in-a-room,Female,6000,43,86,30,34.9,Yes,Yes,Yes,Yes,Yes,Verified,18 01 2025,4.7,14,Hostel Verification Team
+HST0385,Golden Gate Hostel,Pedu,2,Single,Male,5500,13,13,4,30.8,Yes,No,Yes,Yes,Yes,Pending Review,20 08 2025,4.1,18,Hostel Verification Team
+HST0386,University Heights Hostel,Pedu,2.4,Single,Female,10500,37,37,20,54.1,Yes,Yes,Yes,Yes,Yes,Verified,23 03 2026,3.7,1,Hostel Verification Team
+HST0387,Comfort Zone Hostel,Abura,7.5,3-in-a-room,Female,3500,19,57,47,82.5,No,Yes,No,No,Yes,Not Verified,22 03 2025,4.5,15,Hostel Verification Team
+HST0388,Peace Haven Hostel,Kwaprow,6.9,3-in-a-room,Male,2750,10,30,12,40,No,Yes,Yes,Yes,No,Pending Review,23 03 2025,4.4,0,Hostel Verification Team
+HST0389,Comfort Zone Hostel,Pedu,1.3,3-in-a-room,Mixed,4000,44,132,46,34.8,No,Yes,Yes,No,No,Not Verified,21 06 2026,4.1,17,Hostel Verification Team
+HST0390,Maple Court Hostel,Kwaprow,4.3,3-in-a-room,Female,3750,27,81,53,65.4,Yes,Yes,No,Yes,Yes,Pending Review,7 03 2025,4.5,14,Hostel Verification Team
+HST0391,Peace Haven Hostel,Kotokuraba,4.2,4-in-a-room,Mixed,4300,20,80,47,58.8,Yes,No,Yes,Yes,Yes,Pending Review,13 02 2026,4.2,6,Hostel Verification Team
+HST0392,Garden City Hostel,Cape Coast,3.8,Single,Female,11750,42,42,34,81,Yes,Yes,Yes,No,No,Pending Review,21 11 2025,4.3,1,Hostel Verification Team
+HST0393,Green Valley Hostel,Ayensu,1.1,4-in-a-room,Male,4300,42,168,77,45.8,Yes,No,No,Yes,Yes,Pending Review,5 09 2025,2.8,0,Hostel Verification Team
+HST0394,Golden Gate Hostel,Kotokuraba,0.3,Single,Male,7750,14,14,11,78.6,No,Yes,Yes,Yes,Yes,Pending Review,3 07 2025,4.2,2,Hostel Verification Team
+HST0395,Kings Court Hostel,Abura,6.1,4-in-a-room,Female,3050,15,60,57,95,Yes,Yes,Yes,Yes,Yes,Verified,22 07 2026,4.4,10,Hostel Verification Team
+HST0396,University Heights Hostel,Abura,4.2,4-in-a-room,Male,2550,45,180,67,37.2,Yes,No,Yes,Yes,No,Pending Review,26 05 2025,4.2,2,Hostel Verification Team
+HST0397,Campus View Hostel,Kotokuraba,7,3-in-a-room,Male,4000,38,114,55,48.2,No,No,No,Yes,Yes,Not Verified,9 08 2025,4.7,7,Hostel Verification Team
+HST0398,Hilltop Hostel,Kotokuraba,5.4,Single,Mixed,10500,27,27,20,74.1,Yes,Yes,Yes,Yes,Yes,Verified,14 03 2026,3.7,11,Hostel Verification Team
+HST0399,Victory Hostel,Cape Coast,3.6,2-in-a-room,Male,5500,11,22,13,59.1,Yes,Yes,Yes,Yes,No,Pending Review,5 05 2025,4.5,1,Hostel Verification Team
+HST0400,Kings Court Hostel,Pedu,2.6,4-in-a-room,Male,1800,14,56,22,39.3,No,Yes,Yes,Yes,Yes,Pending Review,14 07 2026,4.2,2,Hostel Verification Team
+HST0401,Eagle's Nest Hostel,Abura,3.3,3-in-a-room,Mixed,3250,15,45,25,55.6,No,Yes,No,Yes,Yes,Pending Review,31 08 2025,4.2,12,Hostel Verification Team
+HST0402,Maple Court Hostel,Amamoma,6.7,2-in-a-room,Male,5000,37,74,36,48.6,Yes,Yes,Yes,Yes,Yes,Verified,10 02 2026,3.9,8,Hostel Verification Team
+HST0403,New Era Hostel,Kotokuraba,0.4,Single,Mixed,7500,16,16,6,37.5,Yes,Yes,Yes,No,No,Pending Review,1 05 2026,3.2,9,Hostel Verification Team
+HST0404,Hilltop Hostel,Kotokuraba,4.4,2-in-a-room,Mixed,4000,34,68,56,82.4,Yes,Yes,Yes,Yes,No,Pending Review,25 05 2026,3.4,13,Hostel Verification Team
+HST0405,Golden Gate Hostel,Cape Coast,2.6,2-in-a-room,Mixed,4500,44,88,87,98.9,No,Yes,Yes,No,Yes,Pending Review,15 01 2025,3.4,13,Hostel Verification Team
+HST0406,Sunrise Hostel,University Area,3.8,Single,Male,9750,8,8,7,87.5,Yes,Yes,Yes,Yes,Yes,Verified,2 03 2026,3.9,2,Hostel Verification Team
+HST0407,Maple Court Hostel,Pedu,1.4,4-in-a-room,Male,4050,45,180,65,36.1,No,Yes,No,No,Yes,Not Verified,20 04 2026,3.4,11,Hostel Verification Team
+HST0408,Royal Palm Hostel,Ayensu,6.7,3-in-a-room,Mixed,4500,10,30,19,63.3,Yes,Yes,No,Yes,Yes,Pending Review,22 03 2026,3.4,1,Hostel Verification Team
+HST0409,Starlight Hostel,Amamoma,1,3-in-a-room,Female,4250,10,30,21,70,Yes,Yes,No,Yes,Yes,Pending Review,20 01 2026,4,10,Hostel Verification Team
+HST0410,Garden City Hostel,Cape Coast,5.7,2-in-a-room,Female,6000,30,60,38,63.3,Yes,Yes,Yes,No,Yes,Pending Review,9 06 2026,4.3,11,Hostel Verification Team
+HST0411,Maple Court Hostel,Kwaprow,3.6,3-in-a-room,Male,4250,31,93,83,89.2,Yes,No,Yes,Yes,No,Pending Review,18 03 2025,3.7,5,Hostel Verification Team
+HST0412,University Heights Hostel,Pedu,1,2-in-a-room,Female,7250,17,34,17,50,Yes,No,Yes,Yes,Yes,Pending Review,27 06 2026,5,11,Hostel Verification Team
+HST0413,Eagle's Nest Hostel,Amamoma,2.3,Single,Female,5500,22,22,17,77.3,No,No,Yes,Yes,Yes,Pending Review,7 03 2026,2.9,9,Hostel Verification Team
+HST0414,University Heights Hostel,Pedu,1.9,3-in-a-room,Male,3500,11,33,15,45.5,Yes,Yes,Yes,Yes,No,Pending Review,6 01 2026,3.5,5,Hostel Verification Team
+HST0415,Ocean Breeze Hostel,Kotokuraba,1.9,Single,Female,8000,44,44,19,43.2,Yes,Yes,Yes,Yes,Yes,Verified,6 04 2026,4.3,10,Hostel Verification Team
+HST0416,Prime Scholars Hostel,Kotokuraba,4.1,Single,Female,5500,33,33,26,78.8,Yes,Yes,Yes,No,Yes,Pending Review,7 06 2025,4,9,Hostel Verification Team
+HST0417,Scholar's Lodge,Kotokuraba,6,4-in-a-room,Male,3050,15,60,51,85,Yes,No,Yes,Yes,Yes,Pending Review,20 02 2025,3.8,7,Hostel Verification Team
+HST0418,Hilltop Hostel,Cape Coast,4.5,2-in-a-room,Female,5500,20,40,14,35,No,Yes,No,No,Yes,Not Verified,5 04 2025,4.1,15,Hostel Verification Team
+HST0419,Hilltop Hostel,Amamoma,6.8,3-in-a-room,Mixed,4000,17,51,44,86.3,Yes,Yes,Yes,No,Yes,Pending Review,23 01 2026,3.8,11,Hostel Verification Team
+HST0420,Royal Palm Hostel,Cape Coast,5.5,4-in-a-room,Mixed,4550,34,136,103,75.7,No,Yes,No,Yes,No,Not Verified,1 11 2025,4.6,18,Hostel Verification Team
+HST0421,Royal Palm Hostel,Kotokuraba,1.7,4-in-a-room,Male,3800,29,116,48,41.4,Yes,No,Yes,Yes,Yes,Pending Review,29 01 2026,3.2,5,Hostel Verification Team
+HST0422,Peace Haven Hostel,Kotokuraba,6.3,3-in-a-room,Male,4500,39,117,45,38.5,No,Yes,No,Yes,No,Not Verified,15 11 2025,3.7,0,Hostel Verification Team
+HST0423,Ocean Breeze Hostel,Pedu,2.4,4-in-a-room,Mixed,2050,26,104,89,85.6,Yes,Yes,Yes,No,Yes,Pending Review,12 07 2025,4.2,15,Hostel Verification Team
+HST0424,Starlight Hostel,University Area,4.3,3-in-a-room,Female,5000,38,114,54,47.4,Yes,Yes,Yes,Yes,Yes,Verified,27 01 2026,4,10,Hostel Verification Team
+HST0425,Ocean Breeze Hostel,Abura,1.4,3-in-a-room,Male,3750,34,102,80,78.4,Yes,Yes,No,Yes,Yes,Pending Review,28 02 2025,4.1,5,Hostel Verification Team
+HST0426,Prime Scholars Hostel,Abura,6.6,3-in-a-room,Female,3500,31,93,38,40.9,Yes,Yes,Yes,Yes,Yes,Verified,11 07 2026,3.3,11,Hostel Verification Team
+HST0427,Kings Court Hostel,Abura,6.9,2-in-a-room,Male,4250,21,42,18,42.9,Yes,No,No,Yes,Yes,Pending Review,9 06 2026,4.2,14,Hostel Verification Team
+HST0428,Campus View Hostel,University Area,2.7,3-in-a-room,Mixed,3000,36,108,103,95.4,Yes,Yes,Yes,Yes,Yes,Verified,26 12 2025,3.9,4,Hostel Verification Team
+HST0429,Ocean Breeze Hostel,Cape Coast,2.4,2-in-a-room,Mixed,4500,13,26,22,84.6,No,Yes,Yes,Yes,Yes,Pending Review,4 05 2025,4.8,6,Hostel Verification Team
+HST0430,Garden City Hostel,Amamoma,3.6,3-in-a-room,Mixed,2500,12,36,21,58.3,Yes,Yes,No,Yes,Yes,Pending Review,20 01 2025,4.6,5,Hostel Verification Team
+HST0431,Starlight Hostel,Amamoma,0.9,3-in-a-room,Mixed,4750,30,90,53,58.9,Yes,Yes,Yes,Yes,Yes,Verified,23 06 2025,4.3,6,Hostel Verification Team
+HST0432,Campus View Hostel,Kwaprow,6.9,4-in-a-room,Mixed,3050,45,180,85,47.2,No,No,Yes,Yes,Yes,Pending Review,5 04 2026,3.9,6,Hostel Verification Team
+HST0433,Golden Gate Hostel,Ayensu,1,3-in-a-room,Female,2750,37,111,52,46.8,Yes,Yes,Yes,Yes,No,Pending Review,26 06 2026,3.9,2,Hostel Verification Team
+HST0434,Eagle's Nest Hostel,Pedu,5.2,4-in-a-room,Male,2550,43,172,112,65.1,No,Yes,Yes,No,Yes,Pending Review,3 11 2025,4.2,5,Hostel Verification Team
+HST0435,Maple Court Hostel,Kwaprow,3.1,Single,Female,6250,17,17,11,64.7,Yes,Yes,Yes,Yes,Yes,Verified,24 02 2026,4.3,10,Hostel Verification Team
+HST0436,Sunrise Hostel,Cape Coast,6.3,4-in-a-room,Female,2800,45,180,137,76.1,No,No,Yes,No,Yes,Not Verified,16 10 2025,5,16,Hostel Verification Team
+HST0437,Ocean Breeze Hostel,University Area,1,3-in-a-room,Female,4250,39,117,69,59,Yes,Yes,No,Yes,Yes,Pending Review,27 05 2025,3.4,15,Hostel Verification Team
+HST0438,Hilltop Hostel,Abura,1.3,Single,Female,11500,12,12,12,100,No,No,Yes,No,Yes,Not Verified,29 05 2026,2.7,16,Hostel Verification Team
+HST0439,Prime Scholars Hostel,Abura,6.1,Single,Mixed,11500,10,10,9,90,No,No,Yes,No,No,Not Verified,11 05 2025,4.3,14,Hostel Verification Team
+HST0440,Scholar's Lodge,Kotokuraba,3.8,2-in-a-room,Female,5750,32,64,53,82.8,Yes,Yes,Yes,No,No,Pending Review,2 05 2025,4.1,12,Hostel Verification Team
+HST0441,Maple Court Hostel,Ayensu,4.7,3-in-a-room,Female,5500,26,78,47,60.3,Yes,Yes,Yes,Yes,Yes,Verified,13 03 2025,5,18,Hostel Verification Team
+HST0442,Comfort Zone Hostel,Kwaprow,3.3,3-in-a-room,Female,4000,30,90,34,37.8,Yes,Yes,No,Yes,Yes,Pending Review,17 09 2025,4.2,2,Hostel Verification Team
+HST0443,Sunrise Hostel,Abura,1.4,3-in-a-room,Mixed,2500,37,111,92,82.9,No,Yes,Yes,No,Yes,Pending Review,21 06 2026,3.6,10,Hostel Verification Team
+HST0444,Sunrise Hostel,University Area,0.9,2-in-a-room,Mixed,6000,39,78,59,75.6,No,Yes,Yes,Yes,Yes,Pending Review,23 12 2025,4.4,15,Hostel Verification Team
+HST0445,Royal Palm Hostel,Cape Coast,2.3,Single,Female,7750,44,44,27,61.4,Yes,Yes,No,Yes,Yes,Pending Review,29 08 2025,3.4,2,Hostel Verification Team
+HST0446,Peace Haven Hostel,Abura,6,3-in-a-room,Female,4500,27,81,55,67.9,No,Yes,Yes,Yes,Yes,Pending Review,16 07 2026,3.7,16,Hostel Verification Team
+HST0447,Prime Scholars Hostel,Kotokuraba,6.6,2-in-a-room,Mixed,7250,21,42,35,83.3,Yes,Yes,No,Yes,No,Pending Review,3 05 2026,3.6,11,Hostel Verification Team
+HST0448,Scholar's Lodge,Ayensu,3.2,Single,Female,10500,21,21,20,95.2,Yes,Yes,No,Yes,Yes,Pending Review,8 03 2026,4.1,7,Hostel Verification Team
+HST0449,Golden Gate Hostel,Kwaprow,1.3,Single,Female,7250,27,27,23,85.2,Yes,Yes,No,No,No,Not Verified,22 05 2026,4,5,Hostel Verification Team
+HST0450,Prime Scholars Hostel,Kotokuraba,4.9,Single,Female,11250,39,39,38,97.4,Yes,Yes,Yes,Yes,Yes,Verified,30 01 2025,4.1,13,Hostel Verification Team
+HST0451,Royal Palm Hostel,Ayensu,7.1,2-in-a-room,Mixed,5250,15,30,28,93.3,Yes,Yes,Yes,Yes,Yes,Verified,6 06 2026,4.1,3,Hostel Verification Team
+HST0452,Comfort Zone Hostel,Cape Coast,7,2-in-a-room,Mixed,4500,14,28,14,50,Yes,Yes,Yes,Yes,No,Pending Review,17 08 2025,3.5,15,Hostel Verification Team
+HST0453,Starlight Hostel,Kwaprow,2.5,4-in-a-room,Male,3550,23,92,49,53.3,Yes,Yes,No,Yes,No,Pending Review,7 06 2025,3.3,0,Hostel Verification Team
+HST0454,Green Valley Hostel,Cape Coast,2,4-in-a-room,Female,2800,31,124,58,46.8,Yes,No,Yes,Yes,No,Pending Review,11 07 2026,3.1,8,Hostel Verification Team
+HST0455,Royal Palm Hostel,Cape Coast,2.4,2-in-a-room,Male,7000,28,56,45,80.4,No,No,Yes,Yes,Yes,Pending Review,13 02 2025,3.8,10,Hostel Verification Team
+HST0456,University Heights Hostel,Pedu,3.9,3-in-a-room,Male,4000,43,129,86,66.7,Yes,No,No,Yes,Yes,Pending Review,19 04 2026,2.9,4,Hostel Verification Team
+HST0457,Comfort Zone Hostel,Cape Coast,4.8,3-in-a-room,Female,4750,13,39,16,41,No,Yes,No,Yes,Yes,Pending Review,20 06 2025,3.1,14,Hostel Verification Team
+HST0458,University Heights Hostel,Abura,6,2-in-a-room,Mixed,4000,34,68,46,67.6,Yes,Yes,No,No,No,Not Verified,15 07 2025,4.1,0,Hostel Verification Team
+HST0459,Hilltop Hostel,Cape Coast,6.8,4-in-a-room,Mixed,2550,24,96,54,56.2,Yes,Yes,No,No,No,Not Verified,1 03 2025,4.3,2,Hostel Verification Team
+HST0460,Sunrise Hostel,Amamoma,5.4,4-in-a-room,Male,3550,39,156,69,44.2,Yes,No,Yes,Yes,Yes,Pending Review,27 08 2025,3.9,12,Hostel Verification Team
+HST0461,Kings Court Hostel,Cape Coast,4.6,3-in-a-room,Female,5250,20,60,47,78.3,Yes,Yes,Yes,No,Yes,Pending Review,13 07 2025,3.1,7,Hostel Verification Team
+HST0462,Garden City Hostel,University Area,0.8,4-in-a-room,Mixed,2300,28,112,89,79.5,Yes,Yes,No,No,No,Not Verified,15 08 2025,3.2,3,Hostel Verification Team
+HST0463,Green Valley Hostel,Amamoma,2.6,2-in-a-room,Mixed,7250,30,60,59,98.3,No,Yes,No,Yes,Yes,Pending Review,25 02 2025,3.9,12,Hostel Verification Team
+HST0464,Green Valley Hostel,Kotokuraba,2.1,4-in-a-room,Male,3050,37,148,67,45.3,Yes,Yes,Yes,Yes,No,Pending Review,11 04 2025,3.7,10,Hostel Verification Team
+HST0465,Ocean Breeze Hostel,University Area,6.6,3-in-a-room,Female,5250,31,93,91,97.8,Yes,Yes,No,Yes,Yes,Pending Review,26 03 2026,4.4,13,Hostel Verification Team
+HST0466,Ocean Breeze Hostel,University Area,0.6,2-in-a-room,Female,3750,22,44,20,45.5,No,No,Yes,No,Yes,Not Verified,15 02 2025,3.7,3,Hostel Verification Team
+HST0467,Green Valley Hostel,University Area,2.8,4-in-a-room,Female,3550,39,156,68,43.6,Yes,Yes,Yes,Yes,Yes,Verified,10 06 2025,4.5,5,Hostel Verification Team
+HST0468,Garden City Hostel,Cape Coast,4.5,Single,Female,9500,44,44,20,45.5,Yes,Yes,Yes,Yes,Yes,Verified,12 03 2026,3.2,0,Hostel Verification Team
+HST0469,Sunrise Hostel,Ayensu,2.9,Single,Male,12000,28,28,13,46.4,No,No,No,Yes,No,Not Verified,8 02 2025,4,8,Hostel Verification Team
+HST0470,Hilltop Hostel,University Area,2.6,2-in-a-room,Female,5000,11,22,16,72.7,No,Yes,No,Yes,Yes,Pending Review,6 12 2025,4,12,Hostel Verification Team
+HST0471,University Heights Hostel,Cape Coast,7.2,4-in-a-room,Female,2050,9,36,18,50,Yes,Yes,Yes,No,No,Pending Review,25 06 2025,3.4,9,Hostel Verification Team
+HST0472,Hilltop Hostel,Kotokuraba,2.8,Single,Mixed,12000,31,31,26,83.9,No,Yes,Yes,No,No,Not Verified,2 08 2025,4,18,Hostel Verification Team
+HST0473,Kings Court Hostel,Kwaprow,5.7,3-in-a-room,Female,4750,19,57,46,80.7,Yes,No,No,Yes,Yes,Pending Review,22 03 2026,3.5,7,Hostel Verification Team
+HST0474,Victory Hostel,Kwaprow,2.3,4-in-a-room,Male,2050,38,152,91,59.9,No,Yes,Yes,Yes,Yes,Pending Review,11 06 2025,3.3,18,Hostel Verification Team
+HST0475,Prime Scholars Hostel,Kwaprow,6.9,Single,Female,9500,35,35,25,71.4,Yes,Yes,Yes,No,Yes,Pending Review,16 04 2025,4.9,16,Hostel Verification Team
+HST0476,University Heights Hostel,Kotokuraba,6.4,Single,Male,6000,34,34,33,97.1,No,Yes,No,Yes,No,Not Verified,10 11 2025,4.1,10,Hostel Verification Team
+HST0477,Peace Haven Hostel,Kotokuraba,0.8,3-in-a-room,Female,5000,14,42,27,64.3,Yes,Yes,Yes,Yes,Yes,Verified,11 07 2026,3.7,5,Hostel Verification Team
+HST0478,Hilltop Hostel,University Area,2.4,3-in-a-room,Mixed,5250,33,99,72,72.7,Yes,Yes,Yes,Yes,Yes,Verified,9 04 2025,3.5,0,Hostel Verification Team
+HST0479,Peace Haven Hostel,Amamoma,1.7,2-in-a-room,Male,5250,35,70,64,91.4,No,Yes,Yes,Yes,Yes,Pending Review,15 07 2026,3.8,15,Hostel Verification Team
+HST0480,Eagle's Nest Hostel,University Area,3.6,4-in-a-room,Female,4050,23,92,44,47.8,Yes,Yes,Yes,No,Yes,Pending Review,7 11 2025,4.1,13,Hostel Verification Team
+HST0481,Maple Court Hostel,Pedu,0.5,4-in-a-room,Mixed,3550,40,160,131,81.9,Yes,No,No,Yes,Yes,Pending Review,24 05 2026,3.9,18,Hostel Verification Team
+HST0482,Kings Court Hostel,University Area,1.1,3-in-a-room,Mixed,4250,35,105,38,36.2,Yes,No,Yes,Yes,Yes,Pending Review,24 06 2025,4.2,7,Hostel Verification Team
+HST0483,Golden Gate Hostel,Abura,6.9,4-in-a-room,Male,2300,26,104,85,81.7,Yes,Yes,Yes,Yes,No,Pending Review,12 03 2026,3.9,2,Hostel Verification Team
+HST0484,University Heights Hostel,University Area,0.9,4-in-a-room,Male,3550,27,108,67,62,Yes,Yes,Yes,Yes,Yes,Verified,12 08 2025,3.7,5,Hostel Verification Team
+HST0485,Victory Hostel,Amamoma,6.1,3-in-a-room,Mixed,4000,15,45,34,75.6,Yes,Yes,Yes,Yes,Yes,Verified,30 08 2025,4.1,11,Hostel Verification Team
+HST0486,Blue Sky Hostel,Kotokuraba,6.4,Single,Male,11000,11,11,10,90.9,Yes,Yes,No,Yes,Yes,Pending Review,23 04 2026,3.1,16,Hostel Verification Team
+HST0487,University Heights Hostel,Kwaprow,6.6,3-in-a-room,Female,3000,26,78,72,92.3,Yes,Yes,Yes,No,Yes,Pending Review,7 04 2026,4.3,4,Hostel Verification Team
+HST0488,Campus View Hostel,Cape Coast,6.3,4-in-a-room,Male,3050,26,104,100,96.2,No,Yes,Yes,Yes,Yes,Pending Review,4 07 2025,4.3,7,Hostel Verification Team
+HST0489,Victory Hostel,Ayensu,5.9,2-in-a-room,Female,6750,34,68,49,72.1,Yes,Yes,Yes,Yes,Yes,Verified,24 04 2026,4.2,16,Hostel Verification Team
+HST0490,Comfort Zone Hostel,Kotokuraba,3.4,4-in-a-room,Male,1800,17,68,59,86.8,Yes,Yes,Yes,Yes,No,Pending Review,10 03 2025,3.9,11,Hostel Verification Team
+HST0491,Blue Sky Hostel,Kotokuraba,5.3,4-in-a-room,Mixed,4300,21,84,63,75,Yes,Yes,Yes,Yes,No,Pending Review,7 04 2026,3.5,1,Hostel Verification Team
+HST0492,Ocean Breeze Hostel,Pedu,1.8,3-in-a-room,Mixed,4500,29,87,78,89.7,Yes,Yes,No,Yes,Yes,Pending Review,22 06 2025,3.9,9,Hostel Verification Team
+HST0493,Kings Court Hostel,Kwaprow,5.5,3-in-a-room,Mixed,3500,40,120,87,72.5,Yes,Yes,Yes,Yes,Yes,Verified,16 05 2025,3.8,14,Hostel Verification Team
+HST0494,Garden City Hostel,Cape Coast,2.8,3-in-a-room,Female,5000,44,132,132,100,Yes,Yes,Yes,No,Yes,Pending Review,2 06 2025,4.3,11,Hostel Verification Team
+HST0495,Sunrise Hostel,Kotokuraba,5.4,4-in-a-room,Mixed,2050,13,52,21,40.4,No,Yes,Yes,Yes,No,Pending Review,21 03 2026,3.8,11,Hostel Verification Team
+HST0496,Victory Hostel,Ayensu,6.6,4-in-a-room,Male,4300,35,140,105,75,Yes,No,Yes,No,Yes,Pending Review,26 05 2026,3.5,14,Hostel Verification Team
+HST0497,Victory Hostel,Kwaprow,5.3,4-in-a-room,Mixed,3550,10,40,37,92.5,No,Yes,No,Yes,Yes,Pending Review,19 06 2025,3.7,3,Hostel Verification Team
+HST0498,Ocean Breeze Hostel,Kwaprow,2.9,3-in-a-room,Female,3500,26,78,58,74.4,No,Yes,No,Yes,Yes,Pending Review,7 02 2025,4.3,9,Hostel Verification Team
+HST0499,Peace Haven Hostel,Kotokuraba,6.2,4-in-a-room,Female,1800,15,60,56,93.3,No,Yes,Yes,Yes,Yes,Pending Review,2 01 2026,3.5,18,Hostel Verification Team
+HST0500,Maple Court Hostel,Kotokuraba,5.8,4-in-a-room,Mixed,3550,36,144,69,47.9,Yes,No,Yes,Yes,No,Pending Review,9 12 2025,4.1,10,Hostel Verification Team
